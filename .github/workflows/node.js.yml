@@ -4,12 +4,9 @@
 name: Node.js CI
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
   schedule:
     - cron: "0 1 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -30,3 +27,11 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: node index.js
+    - name: Commit files
+      run: |
+        git config --local user.email "
+        git config --local user.name "GitHub Actions"
+        git add .
+        git commit -m "Github Actions: Update advisors" -a
+    - name: Push changes
+
