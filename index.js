@@ -1,4 +1,4 @@
-const fetch = require("node-fetch");
+import fetch from "node-fetch";
 
 const profgroupID = "676";
 const SES_taalid = 146;
