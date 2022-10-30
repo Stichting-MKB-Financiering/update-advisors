@@ -33,5 +33,5 @@ jobs:
         git config --local user.name "GitHub Actions"
         git add .
         git commit -m "Github Actions: Update advisors" -a
-    - name: Push changes
+        git push
 
