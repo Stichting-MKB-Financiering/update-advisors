@@ -1,4 +1,5 @@
 import fetch from "node-fetch";
+import fs from "fs";
 
 const profgroupID = "676";
 const SES_taalid = 146;
@@ -125,7 +126,6 @@ async function fetchAllData() {
 fetchAllData()
   .then((data) => {
     const json = JSON.stringify(data, null, 2);
-    const fs = require("fs");
     fs.writeFileSync("organizations.json", json);
   })
   .catch((error) => {
