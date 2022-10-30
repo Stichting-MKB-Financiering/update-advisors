@@ -29,7 +29,7 @@ jobs:
     - run: node index.js
     - name: Commit files
       run: |
-        git config --local user.email "
+        git config --local user.email "info@example.com"
         git config --local user.name "GitHub Actions"
         git add .
         git commit -m "Github Actions: Update advisors" -a
