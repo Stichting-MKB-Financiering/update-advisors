@@ -1254,58 +1254,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6176,
-    "tblPointOfInterestName": "Van Soest & Partners BV",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.5101934,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.7331298,
-    "details": {
-      "tblPointOfInterestID": 6176,
-      "tblPointOfInterestName": "Van Soest & Partners BV",
-      "tblPointOfInterestStreet": "Cereslaan",
-      "tblPointOfInterestNumber": 4,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5384 VT",
-      "tblPointOfInterestCity": "Heesch",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0412 45 90 00",
-      "tblPointOfInterestWebsite": "http://www.soestacc.com",
-      "tblPointOfInterestEmail": "info@soestacc.com"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6176,
-        "tblPersonID": 940673,
-        "tblPersonName": "A.A.G.M. van Tuijl"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6177,
-    "tblPointOfInterestName": "Van Soest & Partners BV",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.4734596,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.6496491,
-    "details": {
-      "tblPointOfInterestID": 6177,
-      "tblPointOfInterestName": "Van Soest & Partners BV",
-      "tblPointOfInterestStreet": "Plein 1969",
-      "tblPointOfInterestNumber": 1,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5473 CA",
-      "tblPointOfInterestCity": "Heeswijk Dinther",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0412 45 90 00",
-      "tblPointOfInterestWebsite": "http://www.soestacc.com",
-      "tblPointOfInterestEmail": "info@soestacc.com"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6177,
-        "tblPersonID": 940673,
-        "tblPersonName": "A.A.G.M. van Tuijl"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6187,
     "tblPointOfInterestName": "Credion Zuid-Hollandse Eilanden",
     "tblPointOfInterestCoordinateRetrievedLong": 4.1731908,
