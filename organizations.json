@@ -260,6 +260,11 @@
         "tblPointOfInterestID": 6010,
         "tblPersonID": 1003326,
         "tblPersonName": "A.P. van Ophem"
+      },
+      {
+        "tblPointOfInterestID": 6010,
+        "tblPersonID": 1098829,
+        "tblPersonName": "MGM Huijerjans"
       }
     ]
   },
@@ -1224,32 +1229,6 @@
         "tblPointOfInterestID": 6168,
         "tblPersonID": 971623,
         "tblPersonName": "R.A. Gevers"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6170,
-    "tblPointOfInterestName": "Duurzaam Gefinancierd",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.5361999,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.2454809,
-    "details": {
-      "tblPointOfInterestID": 6170,
-      "tblPointOfInterestName": "Duurzaam Gefinancierd",
-      "tblPointOfInterestStreet": "Catharijnelaan",
-      "tblPointOfInterestNumber": 5,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "2161 CK",
-      "tblPointOfInterestCity": "Lisse",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "085-4866900",
-      "tblPointOfInterestWebsite": "http://www.duurzaamgefinancierd.nl",
-      "tblPointOfInterestEmail": "roy@duurzaamgefinancierd.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6170,
-        "tblPersonID": 968222,
-        "tblPersonName": "R.A.G. Gerrits"
       }
     ]
   },
