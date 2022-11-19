@@ -1,11 +1,11 @@
-import fetch from "node-fetch";
 import fs from "fs";
+import { retryFetch } from "./helpers/retry-fetch.js";
 
 const profgroupID = "676";
 const SES_taalid = 146;
 
 async function fetchOrganizations() {
-  const response = await fetch(
+  const response = await retryFetch(
     "https://live-core.pe-online.org/public/PEapi_PointsOfInterest",
     {
       method: "POST",
@@ -23,7 +23,7 @@ async function fetchOrganizations() {
         SES_extorgid: null,
         SES_Subrollen: "",
       }),
-    }
+    },
   );
 
   const data = await response.json();
@@ -34,7 +34,7 @@ async function fetchOrganizations() {
 }
 
 async function fetchOrganizationDetails(id) {
-  const response = await fetch(
+  const response = await retryFetch(
     "https://live-core.pe-online.org/public/PEapi_PointsOfInterest_Info",
     {
       method: "POST",
@@ -53,7 +53,7 @@ async function fetchOrganizationDetails(id) {
         SES_extorgid: null,
         SES_Subrollen: "",
       }),
-    }
+    },
   );
 
   const data = await response.json();
@@ -64,7 +64,7 @@ async function fetchOrganizationDetails(id) {
 }
 
 async function fetchAdvisors(id) {
-  const response = await fetch(
+  const response = await retryFetch(
     "https://live-core.pe-online.org/public/PEapi_PointsOfInterest_Profs",
     {
       method: "POST",
@@ -83,7 +83,7 @@ async function fetchAdvisors(id) {
         SES_extorgid: null,
         SES_Subrollen: "",
       }),
-    }
+    },
   );
 
   const data = await response.json();
