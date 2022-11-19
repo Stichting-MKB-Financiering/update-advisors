@@ -580,6 +580,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6028,
+    "tblPointOfInterestName": "Financieringsgilde Ede - Veenendaal",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.5687044,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.0437725,
+    "details": {
+      "tblPointOfInterestID": 6028,
+      "tblPointOfInterestName": "Financieringsgilde Ede - Veenendaal",
+      "tblPointOfInterestStreet": "Lunet",
+      "tblPointOfInterestNumber": 2,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3904 NW",
+      "tblPointOfInterestCity": "Veenendaal",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0031630262126",
+      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/",
+      "tblPointOfInterestEmail": "tbaerends@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6028,
+        "tblPersonID": 941506,
+        "tblPersonName": "T. Baerends"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6035,
     "tblPointOfInterestName": "Credion Haarlemmermeer e.o.",
     "tblPointOfInterestCoordinateRetrievedLong": 4.6857787,
@@ -1722,6 +1748,84 @@
         "tblPointOfInterestID": 7007,
         "tblPersonID": 982828,
         "tblPersonName": "O van Dijk"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7067,
+    "tblPointOfInterestName": "Zaqelijk Maashorst",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.5101934,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.7331298,
+    "details": {
+      "tblPointOfInterestID": 7067,
+      "tblPointOfInterestName": "Zaqelijk Maashorst",
+      "tblPointOfInterestStreet": "Cereslaan",
+      "tblPointOfInterestNumber": 4,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5384 VT",
+      "tblPointOfInterestCity": "Heesch",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06 29 13 70 64",
+      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
+      "tblPointOfInterestEmail": "paul@zaqelijk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7067,
+        "tblPersonID": 940673,
+        "tblPersonName": "A.A.G.M. van Tuijl"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7068,
+    "tblPointOfInterestName": "Zaqelijk Maashorst",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.4734596,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.6496491,
+    "details": {
+      "tblPointOfInterestID": 7068,
+      "tblPointOfInterestName": "Zaqelijk Maashorst",
+      "tblPointOfInterestStreet": "Plein 1969",
+      "tblPointOfInterestNumber": 1,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5473 CA",
+      "tblPointOfInterestCity": "Heeswijk Dinther",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06 29 13 70 64",
+      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
+      "tblPointOfInterestEmail": "paul@zaqelijk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7068,
+        "tblPersonID": 940673,
+        "tblPersonName": "A.A.G.M. van Tuijl"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7069,
+    "tblPointOfInterestName": "FP Finance h.o.d.n. BedrijfsfinancieringRegelen.nl",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.1414861,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.0395722,
+    "details": {
+      "tblPointOfInterestID": 7069,
+      "tblPointOfInterestName": "FP Finance h.o.d.n. BedrijfsfinancieringRegelen.nl",
+      "tblPointOfInterestStreet": "Meidoornkade",
+      "tblPointOfInterestNumber": 22,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3992AE",
+      "tblPointOfInterestCity": "Houten",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "030-2271624",
+      "tblPointOfInterestWebsite": "https://www.bedrijfsfinancieringregelen.nl/",
+      "tblPointOfInterestEmail": "info@FPfinance.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7069,
+        "tblPersonID": 1103398,
+        "tblPersonName": "F.T.M. Putman"
       }
     ]
   }
