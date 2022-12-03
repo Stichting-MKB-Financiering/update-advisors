@@ -1237,6 +1237,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6159,
+        "tblPersonID": 966078,
+        "tblPersonName": "HJ Kieft"
+      },
+      {
+        "tblPointOfInterestID": 6159,
         "tblPersonID": 966371,
         "tblPersonName": "R Seinen"
       }
