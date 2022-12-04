@@ -34,6 +34,6 @@ jobs:
         git add .
         # only commit if there are changes
         if [ -n "$(git status --porcelain)" ]; then
-          git commit -m "Github Actions: Update advisors" -a
+          ./helpers/commit.sh "Update advisors"
           git push
         fi
