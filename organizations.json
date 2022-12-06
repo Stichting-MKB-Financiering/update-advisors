@@ -268,6 +268,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6010,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      },
+      {
+        "tblPointOfInterestID": 6010,
         "tblPersonID": 1003326,
         "tblPersonName": "A.P. van Ophem"
       },
@@ -323,6 +328,11 @@
       "tblPointOfInterestEmail": "gvanyperen@nlinvesteert.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 6012,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      },
       {
         "tblPointOfInterestID": 6012,
         "tblPersonID": 1010440,
@@ -382,6 +392,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6015,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      },
+      {
+        "tblPointOfInterestID": 6015,
         "tblPersonID": 982601,
         "tblPersonName": "A.J. Hoogeveen"
       }
@@ -406,6 +421,11 @@
       "tblPointOfInterestEmail": "alammers@nlinvesteert.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 6017,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      },
       {
         "tblPointOfInterestID": 6017,
         "tblPersonID": 976608,
@@ -446,6 +466,32 @@
         "tblPointOfInterestID": 6018,
         "tblPersonID": 952025,
         "tblPersonName": "W. van der Bas"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 6021,
+    "tblPointOfInterestName": "NLInvesteert Limburg",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.8393041,
+    "tblPointOfInterestCoordinateRetrievedLat": 50.9635802,
+    "details": {
+      "tblPointOfInterestID": 6021,
+      "tblPointOfInterestName": "NLInvesteert Limburg",
+      "tblPointOfInterestStreet": "Frans Erenslaan",
+      "tblPointOfInterestNumber": 12,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "6164JH",
+      "tblPointOfInterestCity": "Geleen",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-10477597",
+      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/limburg",
+      "tblPointOfInterestEmail": "hdirks@nlinvesteert.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6021,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
       }
     ]
   },
@@ -546,6 +592,11 @@
       "tblPointOfInterestEmail": "info@nlinvesteert.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 6026,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      },
       {
         "tblPointOfInterestID": 6026,
         "tblPersonID": 976680,
