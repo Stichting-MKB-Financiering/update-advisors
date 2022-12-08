@@ -1062,11 +1062,6 @@
         "tblPointOfInterestID": 6080,
         "tblPersonID": 949708,
         "tblPersonName": "M.B. Damen"
-      },
-      {
-        "tblPointOfInterestID": 6080,
-        "tblPersonID": 983160,
-        "tblPersonName": "G.J. Verhoeks-Bok"
       }
     ]
   },
@@ -1856,6 +1851,89 @@
         "tblPointOfInterestID": 7069,
         "tblPersonID": 1103398,
         "tblPersonName": "F.T.M. Putman"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7091,
+    "tblPointOfInterestName": "ZAQELIJK Bommelerwaard",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.2506518,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.7964631,
+    "details": {
+      "tblPointOfInterestID": 7091,
+      "tblPointOfInterestName": "ZAQELIJK Bommelerwaard",
+      "tblPointOfInterestStreet": "Wichard van Pontlaan",
+      "tblPointOfInterestNumber": 86,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5302 XC",
+      "tblPointOfInterestCity": "Zaltbommel",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "088 004 9800",
+      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
+      "tblPointOfInterestEmail": "info@zaqelijk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7091,
+        "tblPersonID": 983160,
+        "tblPersonName": "G.J. Verhoeks-Bok"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7092,
+    "tblPointOfInterestName": "ZAQELIJK Altena",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.028587,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.7802278,
+    "details": {
+      "tblPointOfInterestID": 7092,
+      "tblPointOfInterestName": "ZAQELIJK Altena",
+      "tblPointOfInterestStreet": "Distributiestraat",
+      "tblPointOfInterestNumber": 25,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "4283 JN",
+      "tblPointOfInterestCity": "Giessen",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0880049800",
+      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
+      "tblPointOfInterestEmail": "info@zaqelijk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7092,
+        "tblPersonID": 949708,
+        "tblPersonName": "M.B. Damen"
+      },
+      {
+        "tblPointOfInterestID": 7092,
+        "tblPersonID": 983160,
+        "tblPersonName": "G.J. Verhoeks-Bok"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7093,
+    "tblPointOfInterestName": "ZAQELIJK Drechtsteden",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.614854,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.8317446,
+    "details": {
+      "tblPointOfInterestID": 7093,
+      "tblPointOfInterestName": "ZAQELIJK Drechtsteden",
+      "tblPointOfInterestStreet": "Daltonstraat",
+      "tblPointOfInterestNumber": 1,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3335 LR",
+      "tblPointOfInterestCity": "Zwijndrecht",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0880049800",
+      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
+      "tblPointOfInterestEmail": "info@zaqelijk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7093,
+        "tblPersonID": 949708,
+        "tblPersonName": "M.B. Damen"
       }
     ]
   }
