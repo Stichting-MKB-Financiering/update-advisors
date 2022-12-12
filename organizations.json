@@ -1746,6 +1746,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7004,
+    "tblPointOfInterestName": "WEA Rivierenland Accountants & Adviseurs Zaltbommel",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.2499612,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.7957634,
+    "details": {
+      "tblPointOfInterestID": 7004,
+      "tblPointOfInterestName": "WEA Rivierenland Accountants & Adviseurs Zaltbommel",
+      "tblPointOfInterestStreet": "Hogeweg",
+      "tblPointOfInterestNumber": 135,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5301 LL",
+      "tblPointOfInterestCity": "Zaltbommel",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0418 579 543",
+      "tblPointOfInterestWebsite": "http://www.wearivierenland.nl",
+      "tblPointOfInterestEmail": "info@wearivierenland.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7004,
+        "tblPersonID": 1027828,
+        "tblPersonName": "G. van Herwijnen"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7007,
     "tblPointOfInterestName": "Dijk van Bedrijfsadvies h.o.d.n. Eijgen Finance Gelderse Vallei",
     "tblPointOfInterestCoordinateRetrievedLong": 5.6279159,
@@ -1929,6 +1955,32 @@
         "tblPointOfInterestID": 7093,
         "tblPersonID": 949708,
         "tblPersonName": "M.B. Damen"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7096,
+    "tblPointOfInterestName": "FinancialQuest",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.4997042,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.2268306,
+    "details": {
+      "tblPointOfInterestID": 7096,
+      "tblPointOfInterestName": "FinancialQuest",
+      "tblPointOfInterestStreet": "Baarslaan",
+      "tblPointOfInterestNumber": 53,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "2215XK",
+      "tblPointOfInterestCity": "Voorhout",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0614781885",
+      "tblPointOfInterestWebsite": "http://www.financialquest.nl",
+      "tblPointOfInterestEmail": "info@financialquest.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7096,
+        "tblPersonID": 1107288,
+        "tblPersonName": "R van der Lans"
       }
     ]
   }
