@@ -591,11 +591,6 @@
         "tblPointOfInterestID": 6026,
         "tblPersonID": 941284,
         "tblPersonName": "N.J. Doorenspleet"
-      },
-      {
-        "tblPointOfInterestID": 6026,
-        "tblPersonID": 976680,
-        "tblPersonName": "N Valente"
       }
     ]
   },
@@ -1446,32 +1441,6 @@
         "tblPointOfInterestID": 6218,
         "tblPersonID": 1010577,
         "tblPersonName": "A.W.T. van den Akker"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6225,
-    "tblPointOfInterestName": "Financieringsgilde Barneveld",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.4862305,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.0754916,
-    "details": {
-      "tblPointOfInterestID": 6225,
-      "tblPointOfInterestName": "Financieringsgilde Barneveld",
-      "tblPointOfInterestStreet": "Koepellaan",
-      "tblPointOfInterestNumber": 12,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "3925EA",
-      "tblPointOfInterestCity": "Scherpenzeel",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0644930780",
-      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl",
-      "tblPointOfInterestEmail": "breussink@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6225,
-        "tblPersonID": 977132,
-        "tblPersonName": "T.H. Reussink-van Capelleveen"
       }
     ]
   },
