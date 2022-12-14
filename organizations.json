@@ -1445,6 +1445,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6225,
+    "tblPointOfInterestName": "Financieringsgilde Barneveld",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.4862305,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.0754916,
+    "details": {
+      "tblPointOfInterestID": 6225,
+      "tblPointOfInterestName": "Financieringsgilde Barneveld",
+      "tblPointOfInterestStreet": "Koepellaan",
+      "tblPointOfInterestNumber": 12,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3925EA",
+      "tblPointOfInterestCity": "Scherpenzeel",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0644930780",
+      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl",
+      "tblPointOfInterestEmail": "breussink@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6225,
+        "tblPersonID": 977132,
+        "tblPersonName": "T.H. Reussink-van Capelleveen"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6267,
     "tblPointOfInterestName": "Business Finance Noord-Holland h/o Credion Heerhugowaard",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8196406,
@@ -1950,6 +1976,32 @@
         "tblPointOfInterestID": 7096,
         "tblPersonID": 1107288,
         "tblPersonName": "R van der Lans"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7108,
+    "tblPointOfInterestName": "CROP corporate finance",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.1088907,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.0662191,
+    "details": {
+      "tblPointOfInterestID": 7108,
+      "tblPointOfInterestName": "CROP corporate finance",
+      "tblPointOfInterestStreet": "Europalaan",
+      "tblPointOfInterestNumber": 40,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3526KS",
+      "tblPointOfInterestCity": "Utrecht",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "030-6040035",
+      "tblPointOfInterestWebsite": "http://www.crop.nl",
+      "tblPointOfInterestEmail": "hblokland@crop.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7108,
+        "tblPersonID": 1108996,
+        "tblPersonName": "h blokland"
       }
     ]
   }
