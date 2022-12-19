@@ -1083,16 +1083,16 @@
   },
   {
     "tblPointOfInterestID": 6110,
-    "tblPointOfInterestName": "Credion Amsterdam MRA / MB Financieren",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.9003032,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.3528193,
+    "tblPointOfInterestName": "Credion Amsterdam MB RV / MB Financieren",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.9151766,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.3327517,
     "details": {
       "tblPointOfInterestID": 6110,
-      "tblPointOfInterestName": "Credion Amsterdam MRA / MB Financieren",
-      "tblPointOfInterestStreet": "Rustenburgerstraat",
-      "tblPointOfInterestNumber": 144,
-      "tblPointOfInterestNumberAddition": "A",
-      "tblPointOfInterestPostalCode": "1073GJ",
+      "tblPointOfInterestName": "Credion Amsterdam MB RV / MB Financieren",
+      "tblPointOfInterestStreet": "Joan Muyskenweg",
+      "tblPointOfInterestNumber": 22,
+      "tblPointOfInterestNumberAddition": "-2. 10",
+      "tblPointOfInterestPostalCode": "1096CJ",
       "tblPointOfInterestCity": "Amsterdam",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "0299405756",
@@ -1103,7 +1103,7 @@
       {
         "tblPointOfInterestID": 6110,
         "tblPersonID": 959227,
-        "tblPersonName": "J.D.M.J. den Boer"
+        "tblPersonName": "Maarten Jeroen den Boer"
       },
       {
         "tblPointOfInterestID": 6110,
@@ -1134,7 +1134,7 @@
       {
         "tblPointOfInterestID": 6111,
         "tblPersonID": 959227,
-        "tblPersonName": "J.D.M.J. den Boer"
+        "tblPersonName": "Maarten Jeroen den Boer"
       },
       {
         "tblPointOfInterestID": 6111,
@@ -1165,7 +1165,7 @@
       {
         "tblPointOfInterestID": 6112,
         "tblPersonID": 959227,
-        "tblPersonName": "J.D.M.J. den Boer"
+        "tblPersonName": "Maarten Jeroen den Boer"
       },
       {
         "tblPointOfInterestID": 6112,
@@ -1867,6 +1867,32 @@
         "tblPointOfInterestID": 7069,
         "tblPersonID": 1103398,
         "tblPersonName": "F.T.M. Putman"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7087,
+    "tblPointOfInterestName": "Eijgen Finance Twente",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.924802,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.4336731,
+    "details": {
+      "tblPointOfInterestID": 7087,
+      "tblPointOfInterestName": "Eijgen Finance Twente",
+      "tblPointOfInterestStreet": "Laagsestraat",
+      "tblPointOfInterestNumber": 72,
+      "tblPointOfInterestNumberAddition": "A",
+      "tblPointOfInterestPostalCode": "7637 PC",
+      "tblPointOfInterestCity": "Oud Ootmarsum",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0646799934",
+      "tblPointOfInterestWebsite": "https://www.eijgenfinance.nl/vestigingen/eijgen-finance-twente/",
+      "tblPointOfInterestEmail": "twente@eijgenfinance.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7087,
+        "tblPersonID": 1107081,
+        "tblPersonName": "R.F.M. Groeneveld"
       }
     ]
   },
