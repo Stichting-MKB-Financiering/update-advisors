@@ -17,7 +17,14 @@ const fields = [
 
 const addresses = organizations.map((item) => {
   const { details } = item;
-  const address = fields.map((field) => details[field]).join(", ");
+
+  const address = fields
+    .map((field) => {
+      const value = details[field];
+      return typeof value === "string" ? value.replace(/,/g, " ") : value;
+    })
+    .join(", ");
+
   return address;
 });
 
