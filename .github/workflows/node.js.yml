@@ -27,6 +27,7 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: node index.js
+    - run: node addresses.js
     - name: Commit files
       run: |
         git config --local user.email "info@example.com"
