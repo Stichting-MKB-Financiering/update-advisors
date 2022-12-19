@@ -21,9 +21,12 @@ const addresses = organizations.map((item) => {
   const address = fields
     .map((field) => {
       const value = details[field];
+      if (value) {
+        return `"${value}"`;
+      }
       return value;
     })
-    .join("; ");
+    .join(", ");
 
   return address;
 });
@@ -39,7 +42,9 @@ const headers = [
   "telefoon",
   "website",
   "email",
-].join("; ");
+]
+  .join(", ")
+  .replace(/([^,]+)/g, '"$1"');
 
 addresses.unshift(headers);
 
