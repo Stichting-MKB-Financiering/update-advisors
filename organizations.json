@@ -1414,6 +1414,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6199,
+    "tblPointOfInterestName": "Financieringsgilde Noord-Holland B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.6545423,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.3969544,
+    "details": {
+      "tblPointOfInterestID": 6199,
+      "tblPointOfInterestName": "Financieringsgilde Noord-Holland B.V.",
+      "tblPointOfInterestStreet": "Tappersweg",
+      "tblPointOfInterestNumber": 14,
+      "tblPointOfInterestNumberAddition": "019",
+      "tblPointOfInterestPostalCode": null,
+      "tblPointOfInterestCity": "Haarlem",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": null,
+      "tblPointOfInterestWebsite": null,
+      "tblPointOfInterestEmail": null
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6199,
+        "tblPersonID": 972332,
+        "tblPersonName": "M.A. van Vugt"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6217,
     "tblPointOfInterestName": "Ventus Advies",
     "tblPointOfInterestCoordinateRetrievedLong": 5.8345193,
