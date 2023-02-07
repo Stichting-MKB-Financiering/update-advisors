@@ -2118,5 +2118,31 @@
         "tblPersonName": "R.M. Stubbe"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 7162,
+    "tblPointOfInterestName": "Prisma Advies Groep Bedrijfsfinancieringen",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.7282204,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.6164774,
+    "details": {
+      "tblPointOfInterestID": 7162,
+      "tblPointOfInterestName": "Prisma Advies Groep Bedrijfsfinancieringen",
+      "tblPointOfInterestStreet": "Kennemerstraatweg",
+      "tblPointOfInterestNumber": 200,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "1851AW",
+      "tblPointOfInterestCity": "Heiloo",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-22492992",
+      "tblPointOfInterestWebsite": "https://prisma-advies.nl/diensten/bedrijfsfinancieringen/",
+      "tblPointOfInterestEmail": "b.bourgonje@prisma-advies.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7162,
+        "tblPersonID": 1120937,
+        "tblPersonName": "S.A.IJ.T.N. Bourgonje"
+      }
+    ]
   }
 ]
