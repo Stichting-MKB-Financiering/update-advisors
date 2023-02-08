@@ -2144,5 +2144,31 @@
         "tblPersonName": "S.A.IJ.T.N. Bourgonje"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 7167,
+    "tblPointOfInterestName": "Credion Ridderkerk",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.6015561,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.8684133,
+    "details": {
+      "tblPointOfInterestID": 7167,
+      "tblPointOfInterestName": "Credion Ridderkerk",
+      "tblPointOfInterestStreet": "Verlengde Kerkweg",
+      "tblPointOfInterestNumber": 25,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "2985AZ",
+      "tblPointOfInterestCity": "Ridderkerk",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-12131098",
+      "tblPointOfInterestWebsite": "https://www.credion.nl/ridderkerk",
+      "tblPointOfInterestEmail": "vcleine@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7167,
+        "tblPersonID": 1121090,
+        "tblPersonName": "V.A. Cleine"
+      }
+    ]
   }
 ]
