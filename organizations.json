@@ -2146,6 +2146,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7165,
+    "tblPointOfInterestName": "Financieringsgilde Oss B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.5460037,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.8068901,
+    "details": {
+      "tblPointOfInterestID": 7165,
+      "tblPointOfInterestName": "Financieringsgilde Oss B.V.",
+      "tblPointOfInterestStreet": "Kerkstraat",
+      "tblPointOfInterestNumber": 12,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5367AG",
+      "tblPointOfInterestCity": "Macharen",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0610264987",
+      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/oss/",
+      "tblPointOfInterestEmail": "fdelaat@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7165,
+        "tblPersonID": 1121526,
+        "tblPersonName": "F.A.M.A. de Laat"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7167,
     "tblPointOfInterestName": "Credion Ridderkerk",
     "tblPointOfInterestCoordinateRetrievedLong": 4.6015561,
