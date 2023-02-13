@@ -2146,6 +2146,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7164,
+    "tblPointOfInterestName": "Financieringsgilde Oss B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.6507284,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.6499779,
+    "details": {
+      "tblPointOfInterestID": 7164,
+      "tblPointOfInterestName": "Financieringsgilde Oss B.V.",
+      "tblPointOfInterestStreet": "Frontstraat",
+      "tblPointOfInterestNumber": 4,
+      "tblPointOfInterestNumberAddition": "B /T0012",
+      "tblPointOfInterestPostalCode": "5405AK",
+      "tblPointOfInterestCity": "Uden",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0610264987",
+      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/oss/",
+      "tblPointOfInterestEmail": "fdelaat@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7164,
+        "tblPersonID": 1121526,
+        "tblPersonName": "F.A.M.A. de Laat"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7165,
     "tblPointOfInterestName": "Financieringsgilde Oss B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 5.5460037,
