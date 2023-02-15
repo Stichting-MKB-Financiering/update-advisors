@@ -1140,6 +1140,11 @@
         "tblPointOfInterestID": 6110,
         "tblPersonID": 984456,
         "tblPersonName": "Hans Eelman"
+      },
+      {
+        "tblPointOfInterestID": 6110,
+        "tblPersonID": 1120488,
+        "tblPersonName": "Daphne de Wit - de Ridder"
       }
     ]
   },
@@ -1171,6 +1176,11 @@
         "tblPointOfInterestID": 6111,
         "tblPersonID": 984456,
         "tblPersonName": "Hans Eelman"
+      },
+      {
+        "tblPointOfInterestID": 6111,
+        "tblPersonID": 1120488,
+        "tblPersonName": "Daphne de Wit - de Ridder"
       }
     ]
   },
@@ -1202,6 +1212,11 @@
         "tblPointOfInterestID": 6112,
         "tblPersonID": 984456,
         "tblPersonName": "Hans Eelman"
+      },
+      {
+        "tblPointOfInterestID": 6112,
+        "tblPersonID": 1120488,
+        "tblPersonName": "Daphne de Wit - de Ridder"
       }
     ]
   },
