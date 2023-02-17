@@ -1247,6 +1247,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6130,
+    "tblPointOfInterestName": "Financieringsgilde Breda",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.8085781,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.5995351,
+    "details": {
+      "tblPointOfInterestID": 6130,
+      "tblPointOfInterestName": "Financieringsgilde Breda",
+      "tblPointOfInterestStreet": "Druivenstraat",
+      "tblPointOfInterestNumber": 47,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "4816KB",
+      "tblPointOfInterestCity": "Breda",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-28733170",
+      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl/breda",
+      "tblPointOfInterestEmail": "jgosenson@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6130,
+        "tblPersonID": 959237,
+        "tblPersonName": "J. Gosenson"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6131,
     "tblPointOfInterestName": "Financieringsgilde Amsterdam",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8578403,
@@ -2276,6 +2302,32 @@
         "tblPointOfInterestID": 7178,
         "tblPersonID": 1122793,
         "tblPersonName": "Rob Batenburg"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7180,
+    "tblPointOfInterestName": "Financieringsgilde Tilburg",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.1871099,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.5813314,
+    "details": {
+      "tblPointOfInterestID": 7180,
+      "tblPointOfInterestName": "Financieringsgilde Tilburg",
+      "tblPointOfInterestStreet": "Almystraat",
+      "tblPointOfInterestNumber": 12,
+      "tblPointOfInterestNumberAddition": "Unit 2.20",
+      "tblPointOfInterestPostalCode": "5061PA",
+      "tblPointOfInterestCity": "Oisterwijk",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-28733170",
+      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl/tilburg",
+      "tblPointOfInterestEmail": "tilburg@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7180,
+        "tblPersonID": 959237,
+        "tblPersonName": "J. Gosenson"
       }
     ]
   }
