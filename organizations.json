@@ -2223,7 +2223,7 @@
       {
         "tblPointOfInterestID": 7164,
         "tblPersonID": 1121526,
-        "tblPersonName": "F.A.M.A. de Laat"
+        "tblPersonName": "F.A.M.A. (Frank) de Laat"
       }
     ]
   },
@@ -2249,7 +2249,7 @@
       {
         "tblPointOfInterestID": 7165,
         "tblPersonID": 1121526,
-        "tblPersonName": "F.A.M.A. de Laat"
+        "tblPersonName": "F.A.M.A. (Frank) de Laat"
       }
     ]
   },
@@ -2328,6 +2328,32 @@
         "tblPointOfInterestID": 7180,
         "tblPersonID": 959237,
         "tblPersonName": "J. Gosenson"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7181,
+    "tblPointOfInterestName": "Bankkraft",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.5016922,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.932276,
+    "details": {
+      "tblPointOfInterestID": 7181,
+      "tblPointOfInterestName": "Bankkraft",
+      "tblPointOfInterestStreet": "Laaghalerveen",
+      "tblPointOfInterestNumber": 16,
+      "tblPointOfInterestNumberAddition": "a",
+      "tblPointOfInterestPostalCode": "9414 VH",
+      "tblPointOfInterestCity": "Hooghalen",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-19226779",
+      "tblPointOfInterestWebsite": "http://www.bankkraft.nl",
+      "tblPointOfInterestEmail": "roy@bankkraft.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7181,
+        "tblPersonID": 1123550,
+        "tblPersonName": "R.A.G. Gerrits"
       }
     ]
   }
