@@ -284,32 +284,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6011,
-    "tblPointOfInterestName": "NLInvesteert Midden",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.3687003,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.1452155,
-    "details": {
-      "tblPointOfInterestID": 6011,
-      "tblPointOfInterestName": "NLInvesteert Midden",
-      "tblPointOfInterestStreet": "Utrechtseweg",
-      "tblPointOfInterestNumber": 154,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "3818ES",
-      "tblPointOfInterestCity": "Amersfoort",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-51300876",
-      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/midden",
-      "tblPointOfInterestEmail": "midden@nlinvesteert.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6011,
-        "tblPersonID": 987629,
-        "tblPersonName": "H Tabbernal"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6012,
     "tblPointOfInterestName": "NLInvesteert Noord Nederland",
     "tblPointOfInterestCoordinateRetrievedLong": 6.5806114,
@@ -1554,11 +1528,6 @@
         "tblPointOfInterestID": 6218,
         "tblPersonID": 962026,
         "tblPersonName": "G. van 't Veen"
-      },
-      {
-        "tblPointOfInterestID": 6218,
-        "tblPersonID": 1010577,
-        "tblPersonName": "A.W.T. van den Akker"
       },
       {
         "tblPointOfInterestID": 6218,
