@@ -211,11 +211,6 @@
       },
       {
         "tblPointOfInterestID": 6007,
-        "tblPersonID": 966380,
-        "tblPersonName": "Alex van Kempen"
-      },
-      {
-        "tblPointOfInterestID": 6007,
         "tblPersonID": 982827,
         "tblPersonName": "NJM Leijten"
       }
@@ -224,15 +219,15 @@
   {
     "tblPointOfInterestID": 6008,
     "tblPointOfInterestName": "Stapelfinancieringen Eindhoven",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.4573746,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.4485503,
+    "tblPointOfInterestCoordinateRetrievedLong": 5.4599642,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.4447772,
     "details": {
       "tblPointOfInterestID": 6008,
       "tblPointOfInterestName": "Stapelfinancieringen Eindhoven",
-      "tblPointOfInterestStreet": "Klokgebouw",
-      "tblPointOfInterestNumber": 146,
-      "tblPointOfInterestNumberAddition": "Strijp S",
-      "tblPointOfInterestPostalCode": "5617AB",
+      "tblPointOfInterestStreet": "Kastanjelaan",
+      "tblPointOfInterestNumber": 400,
+      "tblPointOfInterestNumberAddition": "Microlab-Strijp S",
+      "tblPointOfInterestPostalCode": "5616 LZ",
       "tblPointOfInterestCity": "Eindhoven",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "0646768301",
@@ -2354,6 +2349,32 @@
         "tblPointOfInterestID": 7186,
         "tblPersonID": 1124205,
         "tblPersonName": "A.A. Neumann"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7190,
+    "tblPointOfInterestName": "Stapelfinancieringen Rotterdam",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.4296971,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.9119156,
+    "details": {
+      "tblPointOfInterestID": 7190,
+      "tblPointOfInterestName": "Stapelfinancieringen Rotterdam",
+      "tblPointOfInterestStreet": "Marconistraat",
+      "tblPointOfInterestNumber": 16,
+      "tblPointOfInterestNumberAddition": "Rotterdam Science Tower",
+      "tblPointOfInterestPostalCode": "3029 AK",
+      "tblPointOfInterestCity": "ROTTERDAM",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-52408996",
+      "tblPointOfInterestWebsite": "https://www.stapelfinancieringen.nl/",
+      "tblPointOfInterestEmail": "rotterdam@stapelfinancieringen.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7190,
+        "tblPersonID": 966380,
+        "tblPersonName": "Alex van Kempen"
       }
     ]
   }
