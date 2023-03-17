@@ -2249,6 +2249,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7168,
+    "tblPointOfInterestName": "HSG Finance BV",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.9207472,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.9633361,
+    "details": {
+      "tblPointOfInterestID": 7168,
+      "tblPointOfInterestName": "HSG Finance BV",
+      "tblPointOfInterestStreet": "Leliestraat",
+      "tblPointOfInterestNumber": 21,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "8441DD",
+      "tblPointOfInterestCity": "Heerenveen",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": null,
+      "tblPointOfInterestWebsite": null,
+      "tblPointOfInterestEmail": null
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7168,
+        "tblPersonID": 1121529,
+        "tblPersonName": "J Bijlsma"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7178,
     "tblPointOfInterestName": "Van Velzen Bedrijfsfinanciering",
     "tblPointOfInterestCoordinateRetrievedLong": 4.5123321,
