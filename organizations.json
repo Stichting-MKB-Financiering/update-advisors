@@ -2262,9 +2262,9 @@
       "tblPointOfInterestPostalCode": "8441DD",
       "tblPointOfInterestCity": "Heerenveen",
       "country": "Nederland",
-      "tblPointOfInterestTelephone": null,
-      "tblPointOfInterestWebsite": null,
-      "tblPointOfInterestEmail": null
+      "tblPointOfInterestTelephone": "06-83922761",
+      "tblPointOfInterestWebsite": "http://www.hsgfinance.nl",
+      "tblPointOfInterestEmail": "info@hsgfinance.nl"
     },
     "advisors": [
       {
