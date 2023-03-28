@@ -745,32 +745,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6047,
-    "tblPointOfInterestName": "Credion Deventer - Zutphen",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.4240659,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.2809878,
-    "details": {
-      "tblPointOfInterestID": 6047,
-      "tblPointOfInterestName": "Credion Deventer - Zutphen",
-      "tblPointOfInterestStreet": "Oranjestraat",
-      "tblPointOfInterestNumber": 10,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "7451 CC",
-      "tblPointOfInterestCity": "Holten",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0610905516",
-      "tblPointOfInterestWebsite": "http://www.credion.nl/deventer-zutphen",
-      "tblPointOfInterestEmail": "deventer@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6047,
-        "tblPersonID": 943664,
-        "tblPersonName": "R. Buitink"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6049,
     "tblPointOfInterestName": "Credion Zeeland",
     "tblPointOfInterestCoordinateRetrievedLong": 3.8919409,
