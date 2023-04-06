@@ -341,6 +341,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6014,
+    "tblPointOfInterestName": "NLInvesteert Zwolle IJsseldelta",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.0931506,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.5228183,
+    "details": {
+      "tblPointOfInterestID": 6014,
+      "tblPointOfInterestName": "NLInvesteert Zwolle IJsseldelta",
+      "tblPointOfInterestStreet": "Zwartewaterallee",
+      "tblPointOfInterestNumber": 48,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "8031DX",
+      "tblPointOfInterestCity": "Zwolle",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-51458299",
+      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/zwolle",
+      "tblPointOfInterestEmail": "aklein@nlinvesteert.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6014,
+        "tblPersonID": 1130845,
+        "tblPersonName": "S.W. Scholte"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6015,
     "tblPointOfInterestName": "NLInvesteert Amsterdam",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8543615,
