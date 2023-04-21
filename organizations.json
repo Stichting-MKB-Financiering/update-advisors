@@ -631,6 +631,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6028,
+    "tblPointOfInterestName": "Financieringsgilde Ede - Veenendaal",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.5687044,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.0437725,
+    "details": {
+      "tblPointOfInterestID": 6028,
+      "tblPointOfInterestName": "Financieringsgilde Ede - Veenendaal",
+      "tblPointOfInterestStreet": "Lunet",
+      "tblPointOfInterestNumber": 2,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3904 NW",
+      "tblPointOfInterestCity": "Veenendaal",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0031630262126",
+      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/",
+      "tblPointOfInterestEmail": "tbaerends@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6028,
+        "tblPersonID": 941506,
+        "tblPersonName": "T. Baerends"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6035,
     "tblPointOfInterestName": "Credion Haarlemmermeer e.o.",
     "tblPointOfInterestCoordinateRetrievedLong": 4.6857787,
