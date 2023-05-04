@@ -2410,6 +2410,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7217,
+    "tblPointOfInterestName": "Financieringsgilde 's-Hertogenbosch",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.3337866,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.7172005,
+    "details": {
+      "tblPointOfInterestID": 7217,
+      "tblPointOfInterestName": "Financieringsgilde 's-Hertogenbosch",
+      "tblPointOfInterestStreet": "Bruistensingel",
+      "tblPointOfInterestNumber": 400,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5232AG",
+      "tblPointOfInterestCity": "'s-Hertogenbosch",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0622518843",
+      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/denbosch/",
+      "tblPointOfInterestEmail": "aduwel@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7217,
+        "tblPersonID": 1132222,
+        "tblPersonName": "A.G.L. Duwel"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7230,
     "tblPointOfInterestName": "Distinction Bedrijfsfinancieringen Bedrijfskundig Advies",
     "tblPointOfInterestCoordinateRetrievedLong": 6.5552781,
