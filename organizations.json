@@ -335,11 +335,6 @@
       },
       {
         "tblPointOfInterestID": 6012,
-        "tblPersonID": 1010440,
-        "tblPersonName": "P.B. Rodenburg"
-      },
-      {
-        "tblPointOfInterestID": 6012,
         "tblPersonID": 1056809,
         "tblPersonName": "G van Yperen"
       }
@@ -1725,32 +1720,6 @@
         "tblPointOfInterestID": 6959,
         "tblPersonID": 1019406,
         "tblPersonName": "W.J. van der Maas"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6983,
-    "tblPointOfInterestName": "FONZ V.O.F.",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.6830962,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.5528863,
-    "details": {
-      "tblPointOfInterestID": 6983,
-      "tblPointOfInterestName": "FONZ V.O.F.",
-      "tblPointOfInterestStreet": "Binderseind",
-      "tblPointOfInterestNumber": 9,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5421CG",
-      "tblPointOfInterestCity": "Gemert",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "085 782 5555",
-      "tblPointOfInterestWebsite": "http://www.fonz.nl",
-      "tblPointOfInterestEmail": "info@fonz.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6983,
-        "tblPersonID": 946154,
-        "tblPersonName": "M.M.A.P. Bankers"
       }
     ]
   },
