@@ -1724,6 +1724,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6983,
+    "tblPointOfInterestName": "FONZ V.O.F.",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.6830962,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.5528863,
+    "details": {
+      "tblPointOfInterestID": 6983,
+      "tblPointOfInterestName": "FONZ V.O.F.",
+      "tblPointOfInterestStreet": "Binderseind",
+      "tblPointOfInterestNumber": 9,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5421CG",
+      "tblPointOfInterestCity": "Gemert",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "085 782 5555",
+      "tblPointOfInterestWebsite": "http://www.fonz.nl",
+      "tblPointOfInterestEmail": "info@fonz.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6983,
+        "tblPersonID": 946154,
+        "tblPersonName": "M.M.A.P. Bankers"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6997,
     "tblPointOfInterestName": "Eijgen Finance Leeuwarden",
     "tblPointOfInterestCoordinateRetrievedLong": 5.7870647,
