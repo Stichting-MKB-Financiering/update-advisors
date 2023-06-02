@@ -312,15 +312,15 @@
   {
     "tblPointOfInterestID": 6012,
     "tblPointOfInterestName": "NLInvesteert Noord Nederland",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.5806114,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.9991629,
+    "tblPointOfInterestCoordinateRetrievedLong": 6.5678225,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.9718343,
     "details": {
       "tblPointOfInterestID": 6012,
       "tblPointOfInterestName": "NLInvesteert Noord Nederland",
-      "tblPointOfInterestStreet": "Amelterhout",
-      "tblPointOfInterestNumber": 32,
+      "tblPointOfInterestStreet": "Wasplaat",
+      "tblPointOfInterestNumber": 4,
       "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "9403EE",
+      "tblPointOfInterestPostalCode": "9404MR",
       "tblPointOfInterestCity": "Assen",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "06-38063968",
@@ -1741,32 +1741,6 @@
         "tblPointOfInterestID": 6983,
         "tblPersonID": 946154,
         "tblPersonName": "M.M.A.P. Bankers"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6997,
-    "tblPointOfInterestName": "Eijgen Finance Leeuwarden",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.7870647,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.203807,
-    "details": {
-      "tblPointOfInterestID": 6997,
-      "tblPointOfInterestName": "Eijgen Finance Leeuwarden",
-      "tblPointOfInterestStreet": "Harlingersingel",
-      "tblPointOfInterestNumber": 23,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "8913 CJ",
-      "tblPointOfInterestCity": "Leeuwarden",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "088-5150222",
-      "tblPointOfInterestWebsite": "http://www.eijgenfinance.nl",
-      "tblPointOfInterestEmail": "johan@eijgenfinance.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6997,
-        "tblPersonID": 940532,
-        "tblPersonName": "J.E. Westra"
       }
     ]
   },
