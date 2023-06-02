@@ -275,11 +275,6 @@
         "tblPointOfInterestID": 6010,
         "tblPersonID": 1098829,
         "tblPersonName": "MGM Huijerjans"
-      },
-      {
-        "tblPointOfInterestID": 6010,
-        "tblPersonID": 1130845,
-        "tblPersonName": "S.W. Scholte"
       }
     ]
   },
@@ -363,6 +358,32 @@
         "tblPointOfInterestID": 6013,
         "tblPersonID": 978893,
         "tblPersonName": "Annette Bakker"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 6014,
+    "tblPointOfInterestName": "NLInvesteert Zwolle",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.0910322,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.5080345,
+    "details": {
+      "tblPointOfInterestID": 6014,
+      "tblPointOfInterestName": "NLInvesteert Zwolle",
+      "tblPointOfInterestStreet": "Stationsweg",
+      "tblPointOfInterestNumber": 2,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "8011CZ",
+      "tblPointOfInterestCity": "Zwolle",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0610952062",
+      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/zwolle",
+      "tblPointOfInterestEmail": "sscholte@nlinvesteert.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6014,
+        "tblPersonID": 1130845,
+        "tblPersonName": "S.W. Scholte"
       }
     ]
   },
@@ -2396,6 +2417,32 @@
         "tblPointOfInterestID": 7230,
         "tblPersonID": 1135515,
         "tblPersonName": "H.J.M. Duthler"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7255,
+    "tblPointOfInterestName": "Credion Leiden",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.4738655,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.173567,
+    "details": {
+      "tblPointOfInterestID": 7255,
+      "tblPointOfInterestName": "Credion Leiden",
+      "tblPointOfInterestStreet": "Rijnsburgerweg",
+      "tblPointOfInterestNumber": 159,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "2334 BP",
+      "tblPointOfInterestCity": "Leiden",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "071-3016016",
+      "tblPointOfInterestWebsite": "http://www.credion.nl/leiden",
+      "tblPointOfInterestEmail": "leiden@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7255,
+        "tblPersonID": 1140968,
+        "tblPersonName": "D van Egmond"
       }
     ]
   }
