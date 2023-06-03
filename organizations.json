@@ -1844,58 +1844,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 7067,
-    "tblPointOfInterestName": "Zaqelijk Maashorst",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.5101934,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.7331298,
-    "details": {
-      "tblPointOfInterestID": 7067,
-      "tblPointOfInterestName": "Zaqelijk Maashorst",
-      "tblPointOfInterestStreet": "Cereslaan",
-      "tblPointOfInterestNumber": 4,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5384 VT",
-      "tblPointOfInterestCity": "Heesch",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06 29 13 70 64",
-      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
-      "tblPointOfInterestEmail": "paul@zaqelijk.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7067,
-        "tblPersonID": 940673,
-        "tblPersonName": "A.A.G.M. van Tuijl"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 7068,
-    "tblPointOfInterestName": "Zaqelijk Maashorst",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.4734596,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.6496491,
-    "details": {
-      "tblPointOfInterestID": 7068,
-      "tblPointOfInterestName": "Zaqelijk Maashorst",
-      "tblPointOfInterestStreet": "Plein 1969",
-      "tblPointOfInterestNumber": 1,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5473 CA",
-      "tblPointOfInterestCity": "Heeswijk Dinther",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06 29 13 70 64",
-      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
-      "tblPointOfInterestEmail": "paul@zaqelijk.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7068,
-        "tblPersonID": 940673,
-        "tblPersonName": "A.A.G.M. van Tuijl"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 7069,
     "tblPointOfInterestName": "FP Finance h.o.d.n. BedrijfsfinancieringRegelen.nl",
     "tblPointOfInterestCoordinateRetrievedLong": 5.1414861,
