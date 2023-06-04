@@ -150,37 +150,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6006,
-    "tblPointOfInterestName": "Credion Rivierenland",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.2109555,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.9379522,
-    "details": {
-      "tblPointOfInterestID": 6006,
-      "tblPointOfInterestName": "Credion Rivierenland",
-      "tblPointOfInterestStreet": "Plantijnweg",
-      "tblPointOfInterestNumber": 32,
-      "tblPointOfInterestNumberAddition": "a",
-      "tblPointOfInterestPostalCode": "4104 BB",
-      "tblPointOfInterestCity": "Culemborg",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0651438512",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/rivierenland",
-      "tblPointOfInterestEmail": "rivierenland@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6006,
-        "tblPersonID": 940917,
-        "tblPersonName": "J.M.T. Staal"
-      },
-      {
-        "tblPointOfInterestID": 6006,
-        "tblPersonID": 1010423,
-        "tblPersonName": "D. Quik"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6007,
     "tblPointOfInterestName": "Stapelfinancieringen Tilburg",
     "tblPointOfInterestCoordinateRetrievedLong": 5.0887368,
