@@ -207,32 +207,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6028,
-    "tblPointOfInterestName": "Financieringsgilde Ede - Veenendaal",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.5687044,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.0437725,
-    "details": {
-      "tblPointOfInterestID": 6028,
-      "tblPointOfInterestName": "Financieringsgilde Ede - Veenendaal",
-      "tblPointOfInterestStreet": "Lunet",
-      "tblPointOfInterestNumber": 2,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "3904 NW",
-      "tblPointOfInterestCity": "Veenendaal",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0031630262126",
-      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/",
-      "tblPointOfInterestEmail": "tbaerends@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6028,
-        "tblPersonID": 941506,
-        "tblPersonName": "T. Baerends"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6039,
     "tblPointOfInterestName": "Credion Rotterdam Rijnmond",
     "tblPointOfInterestCoordinateRetrievedLong": 4.4285193,
@@ -1374,6 +1348,58 @@
         "tblPointOfInterestID": 7007,
         "tblPersonID": 982828,
         "tblPersonName": "O van Dijk"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7067,
+    "tblPointOfInterestName": "Zaqelijk Maashorst",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.5101934,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.7331298,
+    "details": {
+      "tblPointOfInterestID": 7067,
+      "tblPointOfInterestName": "Zaqelijk Maashorst",
+      "tblPointOfInterestStreet": "Cereslaan",
+      "tblPointOfInterestNumber": 4,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5384 VT",
+      "tblPointOfInterestCity": "Heesch",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06 29 13 70 64",
+      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
+      "tblPointOfInterestEmail": "paul@zaqelijk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7067,
+        "tblPersonID": 940673,
+        "tblPersonName": "A.A.G.M. van Tuijl"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7068,
+    "tblPointOfInterestName": "Zaqelijk Maashorst",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.4734596,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.6496491,
+    "details": {
+      "tblPointOfInterestID": 7068,
+      "tblPointOfInterestName": "Zaqelijk Maashorst",
+      "tblPointOfInterestStreet": "Plein 1969",
+      "tblPointOfInterestNumber": 1,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5473 CA",
+      "tblPointOfInterestCity": "Heeswijk Dinther",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06 29 13 70 64",
+      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
+      "tblPointOfInterestEmail": "paul@zaqelijk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7068,
+        "tblPersonID": 940673,
+        "tblPersonName": "A.A.G.M. van Tuijl"
       }
     ]
   },
