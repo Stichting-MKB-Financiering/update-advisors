@@ -284,6 +284,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6012,
+        "tblPersonID": 1010440,
+        "tblPersonName": "P.B. Rodenburg"
+      },
+      {
+        "tblPointOfInterestID": 6012,
         "tblPersonID": 1056809,
         "tblPersonName": "G van Yperen"
       }
