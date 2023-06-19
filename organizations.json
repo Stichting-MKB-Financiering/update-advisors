@@ -170,6 +170,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6007,
+        "tblPersonID": 940916,
+        "tblPersonName": "L. van Breugel"
+      },
+      {
+        "tblPointOfInterestID": 6007,
         "tblPersonID": 953626,
         "tblPersonName": "M.J.M.C. Kreijns-Vermeulen"
       },
