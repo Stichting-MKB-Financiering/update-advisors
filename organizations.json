@@ -2233,5 +2233,31 @@
         "tblPersonName": "D van Egmond"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 7283,
+    "tblPointOfInterestName": "Financieel Doordacht",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.6104337,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.035054,
+    "details": {
+      "tblPointOfInterestID": 7283,
+      "tblPointOfInterestName": "Financieel Doordacht",
+      "tblPointOfInterestStreet": "Garstenveld",
+      "tblPointOfInterestNumber": 43,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "7141 NE",
+      "tblPointOfInterestCity": "Groenlo",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-34138432",
+      "tblPointOfInterestWebsite": "http://www.financieeldoordacht.nl",
+      "tblPointOfInterestEmail": "guido@financieeldoordacht.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7283,
+        "tblPersonID": 1145819,
+        "tblPersonName": "G.A.M. Reusen"
+      }
+    ]
   }
 ]
