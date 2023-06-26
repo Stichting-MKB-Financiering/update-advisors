@@ -570,6 +570,63 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6035,
+    "tblPointOfInterestName": "Credion Haarlemmermeer e.o.",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.6857787,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.2917294,
+    "details": {
+      "tblPointOfInterestID": 6035,
+      "tblPointOfInterestName": "Credion Haarlemmermeer e.o.",
+      "tblPointOfInterestStreet": "Diamantlaan",
+      "tblPointOfInterestNumber": 4,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "2132WV",
+      "tblPointOfInterestCity": "Hoofddorp",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0252 744100",
+      "tblPointOfInterestWebsite": "https://www.credion.nl/hoofddorp",
+      "tblPointOfInterestEmail": "Hoofddorp@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6035,
+        "tblPersonID": 942644,
+        "tblPersonName": "P. van der Horst"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 6039,
+    "tblPointOfInterestName": "Credion Rotterdam Rijnmond",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.4285193,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.9334987,
+    "details": {
+      "tblPointOfInterestID": 6039,
+      "tblPointOfInterestName": "Credion Rotterdam Rijnmond",
+      "tblPointOfInterestStreet": "Duyvesteynstraat",
+      "tblPointOfInterestNumber": 1,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3042BA",
+      "tblPointOfInterestCity": "Rotterdam",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "010-7410532",
+      "tblPointOfInterestWebsite": "http://www.credion.nl/rotterdamrijnmond",
+      "tblPointOfInterestEmail": "rotterdam@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6039,
+        "tblPersonID": 943241,
+        "tblPersonName": "D.A. Nonnekes"
+      },
+      {
+        "tblPointOfInterestID": 6039,
+        "tblPersonID": 983497,
+        "tblPersonName": "A. Wevers"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6045,
     "tblPointOfInterestName": "Credion Deventer - Zutphen",
     "tblPointOfInterestCoordinateRetrievedLong": 6.1759109,
@@ -1550,6 +1607,32 @@
         "tblPointOfInterestID": 6983,
         "tblPersonID": 946154,
         "tblPersonName": "M.M.A.P. Bankers"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 6997,
+    "tblPointOfInterestName": "Eijgen Finance Leeuwarden",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.7870647,
+    "tblPointOfInterestCoordinateRetrievedLat": 53.203807,
+    "details": {
+      "tblPointOfInterestID": 6997,
+      "tblPointOfInterestName": "Eijgen Finance Leeuwarden",
+      "tblPointOfInterestStreet": "Harlingersingel",
+      "tblPointOfInterestNumber": 23,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "8913 CJ",
+      "tblPointOfInterestCity": "Leeuwarden",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "088-5150222",
+      "tblPointOfInterestWebsite": "http://www.eijgenfinance.nl",
+      "tblPointOfInterestEmail": "johan@eijgenfinance.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6997,
+        "tblPersonID": 940532,
+        "tblPersonName": "J.E. Westra"
       }
     ]
   },
