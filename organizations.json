@@ -1533,32 +1533,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6956,
-    "tblPointOfInterestName": "Financieringsgilde Zoetermeer",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.5317156,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.0625126,
-    "details": {
-      "tblPointOfInterestID": 6956,
-      "tblPointOfInterestName": "Financieringsgilde Zoetermeer",
-      "tblPointOfInterestStreet": "Willem Dreeslaan",
-      "tblPointOfInterestNumber": 406,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "2729NK",
-      "tblPointOfInterestCity": "Zoetermeer",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "(085) 864 03 13",
-      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/zoetermeer/",
-      "tblPointOfInterestEmail": "bbreugem@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6956,
-        "tblPersonID": 1019077,
-        "tblPersonName": "Bastiaan Breugem"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6959,
     "tblPointOfInterestName": "Nederlands Financieel Centrum voor Ondernemers B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 5.2614676,
