@@ -25,11 +25,6 @@
       },
       {
         "tblPointOfInterestID": 5963,
-        "tblPersonID": 945773,
-        "tblPersonName": "F.J. Groot"
-      },
-      {
-        "tblPointOfInterestID": 5963,
         "tblPersonID": 969339,
         "tblPersonName": "J.J.M.Th. Noteborn"
       }
@@ -61,65 +56,8 @@
       },
       {
         "tblPointOfInterestID": 5964,
-        "tblPersonID": 945773,
-        "tblPersonName": "F.J. Groot"
-      },
-      {
-        "tblPointOfInterestID": 5964,
         "tblPersonID": 969339,
         "tblPersonName": "J.J.M.Th. Noteborn"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 5981,
-    "tblPointOfInterestName": "Varink B.V.",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.3891744,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.2112009,
-    "details": {
-      "tblPointOfInterestID": 5981,
-      "tblPointOfInterestName": "Varink B.V.",
-      "tblPointOfInterestStreet": "Zevenhuizerstraat",
-      "tblPointOfInterestNumber": 162,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "3751LD",
-      "tblPointOfInterestCity": "Bunschoten-Spakenburg",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0615143025",
-      "tblPointOfInterestWebsite": "http://www.varink.nl",
-      "tblPointOfInterestEmail": "duco@varink.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 5981,
-        "tblPersonID": 945768,
-        "tblPersonName": "J.G. Arink"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 5982,
-    "tblPointOfInterestName": "Varink B.V.",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.393755,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.2014792,
-    "details": {
-      "tblPointOfInterestID": 5982,
-      "tblPointOfInterestName": "Varink B.V.",
-      "tblPointOfInterestStreet": "Tadamastraat",
-      "tblPointOfInterestNumber": 11,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "2225 HR",
-      "tblPointOfInterestCity": "Katwijk",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0630482521",
-      "tblPointOfInterestWebsite": "http://www.varink.nl",
-      "tblPointOfInterestEmail": "peter@varink.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 5982,
-        "tblPersonID": 945776,
-        "tblPersonName": "P.G. Varkevisser"
       }
     ]
   },
@@ -462,32 +400,6 @@
         "tblPointOfInterestID": 6019,
         "tblPersonID": 972944,
         "tblPersonName": "Sandra Schrauwen"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6024,
-    "tblPointOfInterestName": "NLInvesteert Zuid Gelderland",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.4285786,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.911102,
-    "details": {
-      "tblPointOfInterestID": 6024,
-      "tblPointOfInterestName": "NLInvesteert Zuid Gelderland",
-      "tblPointOfInterestStreet": "Amperestraat",
-      "tblPointOfInterestNumber": 10,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "4004KB",
-      "tblPointOfInterestCity": "Tiel",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-20793752",
-      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/zuid-gelderland",
-      "tblPointOfInterestEmail": "kvandijk@nlinvesteert.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6024,
-        "tblPersonID": 945771,
-        "tblPersonName": "K.E. van Dijk"
       }
     ]
   },
@@ -1508,32 +1420,6 @@
         "tblPointOfInterestID": 6376,
         "tblPersonID": 1004892,
         "tblPersonName": "J.A. Vervat"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6903,
-    "tblPointOfInterestName": "Credion Noord- en Midden-Limburg / Soeverein IFS",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.7047334,
-    "tblPointOfInterestCoordinateRetrievedLat": 50.8379724,
-    "details": {
-      "tblPointOfInterestID": 6903,
-      "tblPointOfInterestName": "Credion Noord- en Midden-Limburg / Soeverein IFS",
-      "tblPointOfInterestStreet": "Gelissendomein",
-      "tblPointOfInterestNumber": 8,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "6229GJ",
-      "tblPointOfInterestCity": "Maastricht",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": null,
-      "tblPointOfInterestWebsite": null,
-      "tblPointOfInterestEmail": null
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6903,
-        "tblPersonID": 945773,
-        "tblPersonName": "F.J. Groot"
       }
     ]
   },
