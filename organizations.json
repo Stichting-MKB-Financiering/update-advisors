@@ -777,32 +777,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6072,
-    "tblPointOfInterestName": "MKB-financieringsoplossingen",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.8515015,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.0572704,
-    "details": {
-      "tblPointOfInterestID": 6072,
-      "tblPointOfInterestName": "MKB-financieringsoplossingen",
-      "tblPointOfInterestStreet": "De Oper",
-      "tblPointOfInterestNumber": 47,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "8494PJ",
-      "tblPointOfInterestCity": "NES",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0625422569",
-      "tblPointOfInterestWebsite": "http://www.MKB-financieringsoplossingen.nl",
-      "tblPointOfInterestEmail": "info@mkb-financieringsoplossingen.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6072,
-        "tblPersonID": 947346,
-        "tblPersonName": "E van den Berg"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6076,
     "tblPointOfInterestName": "Credion Gouda - Woerden - Lopikerwaard",
     "tblPointOfInterestCoordinateRetrievedLong": 4.686787,
