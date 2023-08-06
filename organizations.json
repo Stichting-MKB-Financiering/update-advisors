@@ -704,11 +704,6 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6049,
-        "tblPersonID": 950921,
-        "tblPersonName": "J.J. van Dienst"
-      },
-      {
-        "tblPointOfInterestID": 6049,
         "tblPersonID": 976687,
         "tblPersonName": "Dick de Jong"
       }
@@ -733,11 +728,6 @@
       "tblPointOfInterestEmail": "drechtsteden@credion.nl"
     },
     "advisors": [
-      {
-        "tblPointOfInterestID": 6050,
-        "tblPersonID": 950921,
-        "tblPersonName": "J.J. van Dienst"
-      },
       {
         "tblPointOfInterestID": 6050,
         "tblPersonID": 976687,
@@ -892,32 +882,6 @@
         "tblPointOfInterestID": 6080,
         "tblPersonID": 949708,
         "tblPersonName": "M.B. Damen"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6093,
-    "tblPointOfInterestName": "Credion Eindhoven - Helmond",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.397582,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.4549904,
-    "details": {
-      "tblPointOfInterestID": 6093,
-      "tblPointOfInterestName": "Credion Eindhoven - Helmond",
-      "tblPointOfInterestStreet": "Luchthavenweg",
-      "tblPointOfInterestNumber": 54,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5657 EB",
-      "tblPointOfInterestCity": "Eindhoven",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "085 - 902 02 18",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/eindhovenhelmond",
-      "tblPointOfInterestEmail": "eindhoven@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6093,
-        "tblPersonID": 951114,
-        "tblPersonName": "H van Montfort"
       }
     ]
   },
