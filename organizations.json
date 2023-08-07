@@ -25,6 +25,11 @@
       },
       {
         "tblPointOfInterestID": 5963,
+        "tblPersonID": 945773,
+        "tblPersonName": "F.J. Groot"
+      },
+      {
+        "tblPointOfInterestID": 5963,
         "tblPersonID": 969339,
         "tblPersonName": "J.J.M.Th. Noteborn"
       }
@@ -53,6 +58,11 @@
         "tblPointOfInterestID": 5964,
         "tblPersonID": 933773,
         "tblPersonName": "R.M.G. Dings"
+      },
+      {
+        "tblPointOfInterestID": 5964,
+        "tblPersonID": 945773,
+        "tblPersonName": "F.J. Groot"
       },
       {
         "tblPointOfInterestID": 5964,
@@ -886,6 +896,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6093,
+    "tblPointOfInterestName": "Credion Eindhoven - Helmond",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.397582,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.4549904,
+    "details": {
+      "tblPointOfInterestID": 6093,
+      "tblPointOfInterestName": "Credion Eindhoven - Helmond",
+      "tblPointOfInterestStreet": "Luchthavenweg",
+      "tblPointOfInterestNumber": 54,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5657 EB",
+      "tblPointOfInterestCity": "Eindhoven",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "085 - 902 02 18",
+      "tblPointOfInterestWebsite": "https://www.credion.nl/eindhovenhelmond",
+      "tblPointOfInterestEmail": "eindhoven@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6093,
+        "tblPersonID": 951114,
+        "tblPersonName": "H van Montfort"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6110,
     "tblPointOfInterestName": "Credion Amsterdam MB RV / MB Financieren",
     "tblPointOfInterestCoordinateRetrievedLong": 4.9151766,
@@ -1441,6 +1477,32 @@
         "tblPointOfInterestID": 6376,
         "tblPersonID": 1004892,
         "tblPersonName": "J.A. Vervat"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 6903,
+    "tblPointOfInterestName": "Credion Noord- en Midden-Limburg / Soeverein IFS",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.7047334,
+    "tblPointOfInterestCoordinateRetrievedLat": 50.8379724,
+    "details": {
+      "tblPointOfInterestID": 6903,
+      "tblPointOfInterestName": "Credion Noord- en Midden-Limburg / Soeverein IFS",
+      "tblPointOfInterestStreet": "Gelissendomein",
+      "tblPointOfInterestNumber": 8,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "6229GJ",
+      "tblPointOfInterestCity": "Maastricht",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": null,
+      "tblPointOfInterestWebsite": null,
+      "tblPointOfInterestEmail": null
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6903,
+        "tblPersonID": 945773,
+        "tblPersonName": "F.J. Groot"
       }
     ]
   },
