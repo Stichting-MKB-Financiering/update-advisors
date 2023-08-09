@@ -445,6 +445,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6018,
+    "tblPointOfInterestName": "NLInvesteert Drechtsteden",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.6570702,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.813949,
+    "details": {
+      "tblPointOfInterestID": 6018,
+      "tblPointOfInterestName": "NLInvesteert Drechtsteden",
+      "tblPointOfInterestStreet": "Bomkade",
+      "tblPointOfInterestNumber": 16,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3311JD",
+      "tblPointOfInterestCity": "Dordrecht",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-42714433",
+      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/drechtsteden",
+      "tblPointOfInterestEmail": "gsip@nlinvesteert.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6018,
+        "tblPersonID": 952025,
+        "tblPersonName": "W. van der Bas"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6019,
     "tblPointOfInterestName": "NLInvesteert West Brabant",
     "tblPointOfInterestCoordinateRetrievedLong": 4.7366248,
