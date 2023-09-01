@@ -270,6 +270,11 @@
         "tblPointOfInterestID": 6010,
         "tblPersonID": 1098829,
         "tblPersonName": "MGM Huijerjans"
+      },
+      {
+        "tblPointOfInterestID": 6010,
+        "tblPersonID": 1157843,
+        "tblPersonName": "RP Extra"
       }
     ]
   },
