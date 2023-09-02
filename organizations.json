@@ -263,6 +263,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6010,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      },
+      {
+        "tblPointOfInterestID": 6010,
         "tblPersonID": 1003326,
         "tblPersonName": "A.P. van Ophem"
       },
@@ -323,6 +328,11 @@
       "tblPointOfInterestEmail": "gvanyperen@nlinvesteert.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 6012,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      },
       {
         "tblPointOfInterestID": 6012,
         "tblPersonID": 1010440,
@@ -408,6 +418,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6015,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      },
+      {
+        "tblPointOfInterestID": 6015,
         "tblPersonID": 982601,
         "tblPersonName": "A.J. Hoogeveen"
       }
@@ -432,6 +447,11 @@
       "tblPointOfInterestEmail": "alammers@nlinvesteert.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 6017,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      },
       {
         "tblPointOfInterestID": 6017,
         "tblPersonID": 976608,
@@ -528,6 +548,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6021,
+    "tblPointOfInterestName": "NLInvesteert Limburg",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.8393041,
+    "tblPointOfInterestCoordinateRetrievedLat": 50.9635802,
+    "details": {
+      "tblPointOfInterestID": 6021,
+      "tblPointOfInterestName": "NLInvesteert Limburg",
+      "tblPointOfInterestStreet": "Frans Erenslaan",
+      "tblPointOfInterestNumber": 12,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "6164JH",
+      "tblPointOfInterestCity": "Geleen",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-10477597",
+      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/limburg",
+      "tblPointOfInterestEmail": "hdirks@nlinvesteert.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6021,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6025,
     "tblPointOfInterestName": "NLInvesteert Midden Gelderland",
     "tblPointOfInterestCoordinateRetrievedLong": 6.0565382,
@@ -572,6 +618,11 @@
       "tblPointOfInterestEmail": "info@nlinvesteert.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 6026,
+        "tblPersonID": 941284,
+        "tblPersonName": "N.J. Doorenspleet"
+      },
       {
         "tblPointOfInterestID": 6026,
         "tblPersonID": 976680,
@@ -2288,6 +2339,32 @@
         "tblPointOfInterestID": 7293,
         "tblPersonID": 1007250,
         "tblPersonName": "A Satter"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7323,
+    "tblPointOfInterestName": "Equiton",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.7571883,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.5803791,
+    "details": {
+      "tblPointOfInterestID": 7323,
+      "tblPointOfInterestName": "Equiton",
+      "tblPointOfInterestStreet": "Scheldestraat",
+      "tblPointOfInterestNumber": 61,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "4812 XH",
+      "tblPointOfInterestCity": "Breda",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0654262741",
+      "tblPointOfInterestWebsite": "http://www.equiton.nl",
+      "tblPointOfInterestEmail": "info@equiton.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7323,
+        "tblPersonID": 1158086,
+        "tblPersonName": "M.W.M.F. Halters"
       }
     ]
   }
