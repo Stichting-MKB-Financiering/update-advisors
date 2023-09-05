@@ -801,6 +801,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6049,
+        "tblPersonID": 950921,
+        "tblPersonName": "J.J. van Dienst"
+      },
+      {
+        "tblPointOfInterestID": 6049,
         "tblPersonID": 976687,
         "tblPersonName": "Dick de Jong"
       }
@@ -825,6 +830,11 @@
       "tblPointOfInterestEmail": "drechtsteden@credion.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 6050,
+        "tblPersonID": 950921,
+        "tblPersonName": "J.J. van Dienst"
+      },
       {
         "tblPointOfInterestID": 6050,
         "tblPersonID": 976687,
