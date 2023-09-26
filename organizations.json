@@ -2356,5 +2356,31 @@
         "tblPersonName": "M.W.M.F. Halters"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 7339,
+    "tblPointOfInterestName": "MKB Advies Partners B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.8685398,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.3014768,
+    "details": {
+      "tblPointOfInterestID": 7339,
+      "tblPointOfInterestName": "MKB Advies Partners B.V.",
+      "tblPointOfInterestStreet": "Van Heuven Goedhartlaan",
+      "tblPointOfInterestNumber": 13,
+      "tblPointOfInterestNumberAddition": "D",
+      "tblPointOfInterestPostalCode": "1181 LE",
+      "tblPointOfInterestCity": "Amstelveen",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "085.0604700",
+      "tblPointOfInterestWebsite": "https://www.mkbap.nl/",
+      "tblPointOfInterestEmail": "ondernemen@mkbap.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7339,
+        "tblPersonID": 1103398,
+        "tblPersonName": "F.T.M. Putman"
+      }
+    ]
   }
 ]
