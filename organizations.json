@@ -1024,42 +1024,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6111,
-    "tblPointOfInterestName": "Credion Waterland MB RV / MB Financieren",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.911659,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.5473982,
-    "details": {
-      "tblPointOfInterestID": 6111,
-      "tblPointOfInterestName": "Credion Waterland MB RV / MB Financieren",
-      "tblPointOfInterestStreet": "Schoolstraat",
-      "tblPointOfInterestNumber": 9,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "1462JC",
-      "tblPointOfInterestCity": "Middenbeemster",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0299405756",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/waterlandmbrv",
-      "tblPointOfInterestEmail": "waterland@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6111,
-        "tblPersonID": 959227,
-        "tblPersonName": "Maarten Jeroen den Boer"
-      },
-      {
-        "tblPointOfInterestID": 6111,
-        "tblPersonID": 984456,
-        "tblPersonName": "Hans Eelman"
-      },
-      {
-        "tblPointOfInterestID": 6111,
-        "tblPersonID": 1120488,
-        "tblPersonName": "Daphne de Wit - de Ridder"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6112,
     "tblPointOfInterestName": "Credion Texel MB RV / MB Financieren",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8015718,
