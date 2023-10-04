@@ -1112,37 +1112,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6159,
-    "tblPointOfInterestName": "Credion Friesland",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.7974361,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.198234,
-    "details": {
-      "tblPointOfInterestID": 6159,
-      "tblPointOfInterestName": "Credion Friesland",
-      "tblPointOfInterestStreet": "Zuiderplein",
-      "tblPointOfInterestNumber": 23,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "8911 AM",
-      "tblPointOfInterestCity": "Leeuwarden",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "058-2027115",
-      "tblPointOfInterestWebsite": "http://www.credion.nl/friesland",
-      "tblPointOfInterestEmail": "rseinen@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6159,
-        "tblPersonID": 966078,
-        "tblPersonName": "HJ Kieft"
-      },
-      {
-        "tblPointOfInterestID": 6159,
-        "tblPersonID": 966371,
-        "tblPersonName": "R Seinen"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6168,
     "tblPointOfInterestName": "Credion Zuid-Hollandse Eilanden",
     "tblPointOfInterestCoordinateRetrievedLong": 4.4164575,
