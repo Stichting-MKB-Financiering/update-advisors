@@ -311,6 +311,11 @@
         "tblPointOfInterestID": 6011,
         "tblPersonID": 987629,
         "tblPersonName": "H Tabbernal"
+      },
+      {
+        "tblPointOfInterestID": 6011,
+        "tblPersonID": 1165561,
+        "tblPersonName": "GF Boer"
       }
     ]
   },
@@ -989,12 +994,12 @@
   },
   {
     "tblPointOfInterestID": 6110,
-    "tblPointOfInterestName": "Credion Amsterdam MB RV / MB Financieren",
+    "tblPointOfInterestName": "Credion Amsterdam MB Adviesgroep",
     "tblPointOfInterestCoordinateRetrievedLong": 4.9151766,
     "tblPointOfInterestCoordinateRetrievedLat": 52.3327517,
     "details": {
       "tblPointOfInterestID": 6110,
-      "tblPointOfInterestName": "Credion Amsterdam MB RV / MB Financieren",
+      "tblPointOfInterestName": "Credion Amsterdam MB Adviesgroep",
       "tblPointOfInterestStreet": "Joan Muyskenweg",
       "tblPointOfInterestNumber": 22,
       "tblPointOfInterestNumberAddition": "-2. 10",
@@ -1002,7 +1007,7 @@
       "tblPointOfInterestCity": "Amsterdam",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "0299405756",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/amsterdammra",
+      "tblPointOfInterestWebsite": "https://www.credion.nl/amsterdammbrv",
       "tblPointOfInterestEmail": "amsterdammbrv@credion.nl"
     },
     "advisors": [
@@ -1025,12 +1030,12 @@
   },
   {
     "tblPointOfInterestID": 6112,
-    "tblPointOfInterestName": "Credion Texel MB RV / MB Financieren",
+    "tblPointOfInterestName": "Credion Texel MB Adviesgroep",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8015718,
     "tblPointOfInterestCoordinateRetrievedLat": 53.061741,
     "details": {
       "tblPointOfInterestID": 6112,
-      "tblPointOfInterestName": "Credion Texel MB RV / MB Financieren",
+      "tblPointOfInterestName": "Credion Texel MB Adviesgroep",
       "tblPointOfInterestStreet": "Abbewaal",
       "tblPointOfInterestNumber": 1,
       "tblPointOfInterestNumberAddition": null,
@@ -2308,6 +2313,37 @@
         "tblPointOfInterestID": 7339,
         "tblPersonID": 1103398,
         "tblPersonName": "F.T.M. Putman"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7344,
+    "tblPointOfInterestName": "MB Adviesgroep",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.9116589,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.5473982,
+    "details": {
+      "tblPointOfInterestID": 7344,
+      "tblPointOfInterestName": "MB Adviesgroep",
+      "tblPointOfInterestStreet": "Schoolstraat",
+      "tblPointOfInterestNumber": 9,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "1462JC",
+      "tblPointOfInterestCity": "Middenbeemster",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0299405755",
+      "tblPointOfInterestWebsite": "https://www.mbadviesgroep.nl/",
+      "tblPointOfInterestEmail": "info@mbadviesgroep.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7344,
+        "tblPersonID": 959227,
+        "tblPersonName": "Maarten Jeroen den Boer"
+      },
+      {
+        "tblPointOfInterestID": 7344,
+        "tblPersonID": 1120488,
+        "tblPersonName": "Daphne de Wit - de Ridder"
       }
     ]
   }
