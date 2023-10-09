@@ -684,6 +684,11 @@
         "tblPointOfInterestID": 6035,
         "tblPersonID": 942644,
         "tblPersonName": "P. van der Horst"
+      },
+      {
+        "tblPointOfInterestID": 6035,
+        "tblPersonID": 984456,
+        "tblPersonName": "Hans Eelman"
       }
     ]
   },
@@ -2339,6 +2344,11 @@
         "tblPointOfInterestID": 7344,
         "tblPersonID": 959227,
         "tblPersonName": "Maarten Jeroen den Boer"
+      },
+      {
+        "tblPointOfInterestID": 7344,
+        "tblPersonID": 984456,
+        "tblPersonName": "Hans Eelman"
       },
       {
         "tblPointOfInterestID": 7344,
