@@ -853,32 +853,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6057,
-    "tblPointOfInterestName": "Credion Doetinchem",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.293086,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.9656247,
-    "details": {
-      "tblPointOfInterestID": 6057,
-      "tblPointOfInterestName": "Credion Doetinchem",
-      "tblPointOfInterestStreet": "Raadhuisstraat",
-      "tblPointOfInterestNumber": 25,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "7001EX",
-      "tblPointOfInterestCity": "Doetinchem",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0613281973",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/doetinchem",
-      "tblPointOfInterestEmail": "doetinchem@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6057,
-        "tblPersonID": 967750,
-        "tblPersonName": "H.J.T. Horstink"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6076,
     "tblPointOfInterestName": "Credion Gouda - Woerden - Lopikerwaard",
     "tblPointOfInterestCoordinateRetrievedLong": 4.686787,
