@@ -946,6 +946,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6080,
+    "tblPointOfInterestName": "ZAQELIJK Lek- & Merwestreek",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.8288723,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.8259468,
+    "details": {
+      "tblPointOfInterestID": 6080,
+      "tblPointOfInterestName": "ZAQELIJK Lek- & Merwestreek",
+      "tblPointOfInterestStreet": "Buitendams",
+      "tblPointOfInterestNumber": 91,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3371AG",
+      "tblPointOfInterestCity": "Hardinxveld Giessendam",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0880049800",
+      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
+      "tblPointOfInterestEmail": "info@zaqelijk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6080,
+        "tblPersonID": 949708,
+        "tblPersonName": "M.B. Damen"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6093,
     "tblPointOfInterestName": "Credion Eindhoven - Helmond",
     "tblPointOfInterestCoordinateRetrievedLong": 5.397582,
@@ -1744,8 +1770,39 @@
     "advisors": [
       {
         "tblPointOfInterestID": 7092,
+        "tblPersonID": 949708,
+        "tblPersonName": "M.B. Damen"
+      },
+      {
+        "tblPointOfInterestID": 7092,
         "tblPersonID": 983160,
         "tblPersonName": "G.J. Verhoeks-Bok"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7093,
+    "tblPointOfInterestName": "ZAQELIJK Drechtsteden",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.614854,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.8317446,
+    "details": {
+      "tblPointOfInterestID": 7093,
+      "tblPointOfInterestName": "ZAQELIJK Drechtsteden",
+      "tblPointOfInterestStreet": "Daltonstraat",
+      "tblPointOfInterestNumber": 1,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3335 LR",
+      "tblPointOfInterestCity": "Zwijndrecht",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0880049800",
+      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
+      "tblPointOfInterestEmail": "info@zaqelijk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7093,
+        "tblPersonID": 949708,
+        "tblPersonName": "M.B. Damen"
       }
     ]
   },
