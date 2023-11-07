@@ -1070,6 +1070,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6119,
+    "tblPointOfInterestName": "Credion Bollenstreek",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.435777,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.211811,
+    "details": {
+      "tblPointOfInterestID": 6119,
+      "tblPointOfInterestName": "Credion Bollenstreek",
+      "tblPointOfInterestStreet": "Jonckerweg",
+      "tblPointOfInterestNumber": 17,
+      "tblPointOfInterestNumberAddition": "XO-07",
+      "tblPointOfInterestPostalCode": "2201 DZ",
+      "tblPointOfInterestCity": "Noordwijk",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0712070007",
+      "tblPointOfInterestWebsite": "https://www.credion.nl/bollenstreek",
+      "tblPointOfInterestEmail": "bollenstreek@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6119,
+        "tblPersonID": 953245,
+        "tblPersonName": "Hans van Klaveren"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6130,
     "tblPointOfInterestName": "Financieringsgilde Breda",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8085781,
