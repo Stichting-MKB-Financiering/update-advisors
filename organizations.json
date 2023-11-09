@@ -579,6 +579,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6024,
+    "tblPointOfInterestName": "NLInvesteert Zuid Gelderland",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.4285786,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.911102,
+    "details": {
+      "tblPointOfInterestID": 6024,
+      "tblPointOfInterestName": "NLInvesteert Zuid Gelderland",
+      "tblPointOfInterestStreet": "Amperestraat",
+      "tblPointOfInterestNumber": 10,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "4004KB",
+      "tblPointOfInterestCity": "Tiel",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-20793752",
+      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/zuid-gelderland",
+      "tblPointOfInterestEmail": "kvandijk@nlinvesteert.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6024,
+        "tblPersonID": 945771,
+        "tblPersonName": "K.E. van Dijk"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6025,
     "tblPointOfInterestName": "NLInvesteert Midden Gelderland",
     "tblPointOfInterestCoordinateRetrievedLong": 6.0565382,
