@@ -968,12 +968,12 @@
   },
   {
     "tblPointOfInterestID": 6093,
-    "tblPointOfInterestName": "Credion Eindhoven - Helmond",
+    "tblPointOfInterestName": "Credion Zuidoost Brabant",
     "tblPointOfInterestCoordinateRetrievedLong": 5.397582,
     "tblPointOfInterestCoordinateRetrievedLat": 51.4549904,
     "details": {
       "tblPointOfInterestID": 6093,
-      "tblPointOfInterestName": "Credion Eindhoven - Helmond",
+      "tblPointOfInterestName": "Credion Zuidoost Brabant",
       "tblPointOfInterestStreet": "Luchthavenweg",
       "tblPointOfInterestNumber": 54,
       "tblPointOfInterestNumberAddition": null,
@@ -981,8 +981,8 @@
       "tblPointOfInterestCity": "Eindhoven",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "085 - 902 02 18",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/eindhovenhelmond",
-      "tblPointOfInterestEmail": "eindhoven@credion.nl"
+      "tblPointOfInterestWebsite": "https://www.credion.eu/nl/zuidoost-brabant",
+      "tblPointOfInterestEmail": "zuidoostbrabant@credion.nl"
     },
     "advisors": [
       {
