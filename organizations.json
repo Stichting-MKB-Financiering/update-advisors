@@ -993,6 +993,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6094,
+    "tblPointOfInterestName": "Credion Zuidoost Brabant",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.7185405,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.3910105,
+    "details": {
+      "tblPointOfInterestID": 6094,
+      "tblPointOfInterestName": "Credion Zuidoost Brabant",
+      "tblPointOfInterestStreet": "p.a. Beukelaar",
+      "tblPointOfInterestNumber": 32,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5711 BL",
+      "tblPointOfInterestCity": "Someren",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "085 - 902 02 18",
+      "tblPointOfInterestWebsite": "https://www.credion.eu/nl/zuidoost-brabant",
+      "tblPointOfInterestEmail": "zuidoostbrabant@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6094,
+        "tblPersonID": 951114,
+        "tblPersonName": "H van Montfort"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6110,
     "tblPointOfInterestName": "Credion Amsterdam MB Adviesgroep",
     "tblPointOfInterestCoordinateRetrievedLong": 4.9151766,
@@ -1269,32 +1295,6 @@
         "tblPointOfInterestID": 6192,
         "tblPersonID": 958950,
         "tblPersonName": "L.D.J. Westmaas"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6199,
-    "tblPointOfInterestName": "Financieringsgilde Noord-Holland B.V.",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.6545423,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.3969544,
-    "details": {
-      "tblPointOfInterestID": 6199,
-      "tblPointOfInterestName": "Financieringsgilde Noord-Holland B.V.",
-      "tblPointOfInterestStreet": "Tappersweg",
-      "tblPointOfInterestNumber": 14,
-      "tblPointOfInterestNumberAddition": "019",
-      "tblPointOfInterestPostalCode": null,
-      "tblPointOfInterestCity": "Haarlem",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": null,
-      "tblPointOfInterestWebsite": null,
-      "tblPointOfInterestEmail": null
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6199,
-        "tblPersonID": 972332,
-        "tblPersonName": "M.A. van Vugt"
       }
     ]
   },
@@ -2422,6 +2422,32 @@
         "tblPointOfInterestID": 7355,
         "tblPersonID": 983497,
         "tblPersonName": "A. Wevers"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7377,
+    "tblPointOfInterestName": "Credion Zuidoost Brabant",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.2633805,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.4005348,
+    "details": {
+      "tblPointOfInterestID": 7377,
+      "tblPointOfInterestName": "Credion Zuidoost Brabant",
+      "tblPointOfInterestStreet": "p.a. Akkerstraat",
+      "tblPointOfInterestNumber": 4,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5528 CH",
+      "tblPointOfInterestCity": "Hoogeloon",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0859020218",
+      "tblPointOfInterestWebsite": "https://www.credion.eu/nl/zuidoost-brabant",
+      "tblPointOfInterestEmail": "zuidoostbrabant@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7377,
+        "tblPersonID": 951114,
+        "tblPersonName": "H van Montfort"
       }
     ]
   }
