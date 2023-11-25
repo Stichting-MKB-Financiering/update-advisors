@@ -431,15 +431,15 @@
   {
     "tblPointOfInterestID": 6017,
     "tblPointOfInterestName": "NLInvesteert Rotterdam Rijnmond",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.5886544,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.9604507,
+    "tblPointOfInterestCoordinateRetrievedLong": 4.5717464,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.955596,
     "details": {
       "tblPointOfInterestID": 6017,
       "tblPointOfInterestName": "NLInvesteert Rotterdam Rijnmond",
-      "tblPointOfInterestStreet": "Hoofdweg",
-      "tblPointOfInterestNumber": 322,
+      "tblPointOfInterestStreet": "Cypresbaan",
+      "tblPointOfInterestNumber": 3,
       "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "2908LC",
+      "tblPointOfInterestPostalCode": "2908LT",
       "tblPointOfInterestCity": "Capelle aan den IJssel",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "06-49212209",
@@ -447,11 +447,6 @@
       "tblPointOfInterestEmail": "alammers@nlinvesteert.nl"
     },
     "advisors": [
-      {
-        "tblPointOfInterestID": 6017,
-        "tblPersonID": 941284,
-        "tblPersonName": "N.J. Doorenspleet"
-      },
       {
         "tblPointOfInterestID": 6017,
         "tblPersonID": 976608,
