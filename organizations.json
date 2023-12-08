@@ -273,6 +273,11 @@
       },
       {
         "tblPointOfInterestID": 6010,
+        "tblPersonID": 1098829,
+        "tblPersonName": "MGM Huijerjans"
+      },
+      {
+        "tblPointOfInterestID": 6010,
         "tblPersonID": 1157843,
         "tblPersonName": "RP Extra"
       },
@@ -492,6 +497,32 @@
         "tblPointOfInterestID": 6018,
         "tblPersonID": 952025,
         "tblPersonName": "W. van der Bas"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 6020,
+    "tblPointOfInterestName": "NLInvesteert Oost Brabant",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.6229993,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.6498303,
+    "details": {
+      "tblPointOfInterestID": 6020,
+      "tblPointOfInterestName": "NLInvesteert Oost Brabant",
+      "tblPointOfInterestStreet": "Velmolenweg",
+      "tblPointOfInterestNumber": 159,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5404LB",
+      "tblPointOfInterestCity": "Uden",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-21857207",
+      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/oost-brabant",
+      "tblPointOfInterestEmail": "jdekleijne@nlinvesteert.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6020,
+        "tblPersonID": 1098829,
+        "tblPersonName": "MGM Huijerjans"
       }
     ]
   },
