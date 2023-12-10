@@ -459,11 +459,6 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6017,
-        "tblPersonID": 976608,
-        "tblPersonName": "E.C. Rhijnsburger"
-      },
-      {
-        "tblPointOfInterestID": 6017,
         "tblPersonID": 982309,
         "tblPersonName": "Albert Lammers"
       },
