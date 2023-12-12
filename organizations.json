@@ -1891,32 +1891,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 7096,
-    "tblPointOfInterestName": "FinancialQuest",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.4997042,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.2268306,
-    "details": {
-      "tblPointOfInterestID": 7096,
-      "tblPointOfInterestName": "FinancialQuest",
-      "tblPointOfInterestStreet": "Baarslaan",
-      "tblPointOfInterestNumber": 53,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "2215XK",
-      "tblPointOfInterestCity": "Voorhout",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0614781885",
-      "tblPointOfInterestWebsite": "http://www.financialquest.nl",
-      "tblPointOfInterestEmail": "info@financialquest.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7096,
-        "tblPersonID": 1107288,
-        "tblPersonName": "R van der Lans"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 7109,
     "tblPointOfInterestName": "Bol Corporate Finance B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 5.937631,
