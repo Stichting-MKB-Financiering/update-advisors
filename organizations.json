@@ -1397,11 +1397,6 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6218,
-        "tblPersonID": 962026,
-        "tblPersonName": "G. van 't Veen"
-      },
-      {
-        "tblPointOfInterestID": 6218,
         "tblPersonID": 1120928,
         "tblPersonName": "I.Y.A. Galama"
       }
