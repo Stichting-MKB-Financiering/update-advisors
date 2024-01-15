@@ -20,6 +20,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 5963,
+        "tblPersonID": 933773,
+        "tblPersonName": "R.M.G. Dings"
+      },
+      {
+        "tblPointOfInterestID": 5963,
         "tblPersonID": 945773,
         "tblPersonName": "F.J. Groot"
       },
@@ -49,6 +54,11 @@
       "tblPointOfInterestEmail": "nmlimburg@credion.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 5964,
+        "tblPersonID": 933773,
+        "tblPersonName": "R.M.G. Dings"
+      },
       {
         "tblPointOfInterestID": 5964,
         "tblPersonID": 945773,
