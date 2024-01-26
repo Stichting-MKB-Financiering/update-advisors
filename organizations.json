@@ -762,6 +762,11 @@
         "tblPointOfInterestID": 6045,
         "tblPersonID": 943664,
         "tblPersonName": "R. Buitink"
+      },
+      {
+        "tblPointOfInterestID": 6045,
+        "tblPersonID": 982551,
+        "tblPersonName": "J. Boerkamp"
       }
     ]
   },
@@ -788,6 +793,11 @@
         "tblPointOfInterestID": 6046,
         "tblPersonID": 943664,
         "tblPersonName": "R. Buitink"
+      },
+      {
+        "tblPointOfInterestID": 6046,
+        "tblPersonID": 982551,
+        "tblPersonName": "J. Boerkamp"
       }
     ]
   },
