@@ -1777,6 +1777,58 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7164,
+    "tblPointOfInterestName": "Financieringsgilde Oss B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.6507284,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.6499779,
+    "details": {
+      "tblPointOfInterestID": 7164,
+      "tblPointOfInterestName": "Financieringsgilde Oss B.V.",
+      "tblPointOfInterestStreet": "Frontstraat",
+      "tblPointOfInterestNumber": 4,
+      "tblPointOfInterestNumberAddition": "B /T0012",
+      "tblPointOfInterestPostalCode": "5405AK",
+      "tblPointOfInterestCity": "Uden",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0610264987",
+      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/oss/",
+      "tblPointOfInterestEmail": "fdelaat@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7164,
+        "tblPersonID": 1121526,
+        "tblPersonName": "F.A.M.A. (Frank) de Laat"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7165,
+    "tblPointOfInterestName": "Financieringsgilde Oss B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.557983,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.7808181,
+    "details": {
+      "tblPointOfInterestID": 7165,
+      "tblPointOfInterestName": "Financieringsgilde Oss B.V.",
+      "tblPointOfInterestStreet": "Grevelingenmeer",
+      "tblPointOfInterestNumber": 19,
+      "tblPointOfInterestNumberAddition": "Kamer 16",
+      "tblPointOfInterestPostalCode": "5347JP",
+      "tblPointOfInterestCity": "Oss",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0610264987",
+      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/oss/",
+      "tblPointOfInterestEmail": "fdelaat@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7165,
+        "tblPersonID": 1121526,
+        "tblPersonName": "F.A.M.A. (Frank) de Laat"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7168,
     "tblPointOfInterestName": "HSG Finance BV",
     "tblPointOfInterestCoordinateRetrievedLong": 5.9207472,
@@ -1799,32 +1851,6 @@
         "tblPointOfInterestID": 7168,
         "tblPersonID": 1121529,
         "tblPersonName": "J Bijlsma"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 7178,
-    "tblPointOfInterestName": "Van Velzen Bedrijfsfinanciering",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.5123321,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.209925,
-    "details": {
-      "tblPointOfInterestID": 7178,
-      "tblPointOfInterestName": "Van Velzen Bedrijfsfinanciering",
-      "tblPointOfInterestStreet": "Wasbeeklaan",
-      "tblPointOfInterestNumber": 3,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "2361 HG",
-      "tblPointOfInterestCity": "Warmond",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0713012400",
-      "tblPointOfInterestWebsite": "http://www.vanvelzenaa.nl/bedrijfsfinanciering",
-      "tblPointOfInterestEmail": "rob@vanvelzenaa.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7178,
-        "tblPersonID": 1122793,
-        "tblPersonName": "Rob Batenburg"
       }
     ]
   },
