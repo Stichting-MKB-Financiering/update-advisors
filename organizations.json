@@ -1881,32 +1881,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 7186,
-    "tblPointOfInterestName": "Financieringsgilde Zuidoost-Brabant",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.3771451,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.4264137,
-    "details": {
-      "tblPointOfInterestID": 7186,
-      "tblPointOfInterestName": "Financieringsgilde Zuidoost-Brabant",
-      "tblPointOfInterestStreet": "Berkt",
-      "tblPointOfInterestNumber": 20,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5507 LN",
-      "tblPointOfInterestCity": "Veldhoven",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0610180182",
-      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/veldhoven/",
-      "tblPointOfInterestEmail": "aneumann@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7186,
-        "tblPersonID": 1124205,
-        "tblPersonName": "A.A. Neumann"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 7190,
     "tblPointOfInterestName": "Stapelfinancieringen Rotterdam",
     "tblPointOfInterestCoordinateRetrievedLong": 4.4296971,
