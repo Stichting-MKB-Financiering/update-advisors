@@ -1294,6 +1294,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6217,
+    "tblPointOfInterestName": "Ventus Advies",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.8345193,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.4492631,
+    "details": {
+      "tblPointOfInterestID": 6217,
+      "tblPointOfInterestName": "Ventus Advies",
+      "tblPointOfInterestStreet": "Postbus",
+      "tblPointOfInterestNumber": 40,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "8080 AA",
+      "tblPointOfInterestCity": "Elburg",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "085 047 94 27",
+      "tblPointOfInterestWebsite": "http://www.ventusadvies.nl",
+      "tblPointOfInterestEmail": "info@ventusadvies.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6217,
+        "tblPersonID": 962026,
+        "tblPersonName": "G. van 't Veen"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6218,
     "tblPointOfInterestName": "Auxilium Adviesgroep B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 5.419601,
@@ -1312,6 +1338,11 @@
       "tblPointOfInterestEmail": "i.galama@auxiliumadviesgroep.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 6218,
+        "tblPersonID": 962026,
+        "tblPersonName": "G. van 't Veen"
+      },
       {
         "tblPointOfInterestID": 6218,
         "tblPersonID": 1120928,
