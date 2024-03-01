@@ -304,11 +304,6 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6011,
-        "tblPersonID": 987629,
-        "tblPersonName": "H Tabbernal"
-      },
-      {
-        "tblPointOfInterestID": 6011,
         "tblPersonID": 1165561,
         "tblPersonName": "GF Boer"
       }
