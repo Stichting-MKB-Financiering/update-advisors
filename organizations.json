@@ -425,6 +425,11 @@
         "tblPointOfInterestID": 6015,
         "tblPersonID": 941284,
         "tblPersonName": "N.J. Doorenspleet"
+      },
+      {
+        "tblPointOfInterestID": 6015,
+        "tblPersonID": 982601,
+        "tblPersonName": "A.J. Hoogeveen"
       }
     ]
   },
@@ -2141,32 +2146,6 @@
         "tblPointOfInterestID": 7215,
         "tblPersonID": 1150389,
         "tblPersonName": "Q. Schaafsma"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 7217,
-    "tblPointOfInterestName": "Financieringsgilde 's-Hertogenbosch",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.3337866,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.7172005,
-    "details": {
-      "tblPointOfInterestID": 7217,
-      "tblPointOfInterestName": "Financieringsgilde 's-Hertogenbosch",
-      "tblPointOfInterestStreet": "Bruistensingel",
-      "tblPointOfInterestNumber": 400,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5232AG",
-      "tblPointOfInterestCity": "'s-Hertogenbosch",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0622518843",
-      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/denbosch/",
-      "tblPointOfInterestEmail": "aduwel@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7217,
-        "tblPersonID": 1132222,
-        "tblPersonName": "A.G.L. Duwel"
       }
     ]
   },
