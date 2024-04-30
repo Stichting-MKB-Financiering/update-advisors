@@ -2312,12 +2312,12 @@
   },
   {
     "tblPointOfInterestID": 7344,
-    "tblPointOfInterestName": "MB Adviesgroep",
+    "tblPointOfInterestName": "MB Financieren",
     "tblPointOfInterestCoordinateRetrievedLong": 4.9116589,
     "tblPointOfInterestCoordinateRetrievedLat": 52.5473982,
     "details": {
       "tblPointOfInterestID": 7344,
-      "tblPointOfInterestName": "MB Adviesgroep",
+      "tblPointOfInterestName": "MB Financieren",
       "tblPointOfInterestStreet": "Schoolstraat",
       "tblPointOfInterestNumber": 9,
       "tblPointOfInterestNumberAddition": null,
