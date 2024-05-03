@@ -1,77 +1,5 @@
 [
   {
-    "tblPointOfInterestID": 5963,
-    "tblPointOfInterestName": "Credion Noord- en Midden-Limburg",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.0206843,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.1927494,
-    "details": {
-      "tblPointOfInterestID": 5963,
-      "tblPointOfInterestName": "Credion Noord- en Midden-Limburg",
-      "tblPointOfInterestStreet": "Westhoven",
-      "tblPointOfInterestNumber": 7,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "6042NV",
-      "tblPointOfInterestCity": "Roermond",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0852006262",
-      "tblPointOfInterestWebsite": "http://credion.nl/noordenmiddenlimburg",
-      "tblPointOfInterestEmail": "nmlimburg@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 5963,
-        "tblPersonID": 933773,
-        "tblPersonName": "R.M.G. Dings"
-      },
-      {
-        "tblPointOfInterestID": 5963,
-        "tblPersonID": 945773,
-        "tblPersonName": "F.J. Groot"
-      },
-      {
-        "tblPointOfInterestID": 5963,
-        "tblPersonID": 969339,
-        "tblPersonName": "J.J.M.Th. Noteborn"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 5964,
-    "tblPointOfInterestName": "Credion Noord- en Midden-Limburg",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.1748844,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.3924399,
-    "details": {
-      "tblPointOfInterestID": 5964,
-      "tblPointOfInterestName": "Credion Noord- en Midden-Limburg",
-      "tblPointOfInterestStreet": "Noorderpoort",
-      "tblPointOfInterestNumber": 7,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5916PJ",
-      "tblPointOfInterestCity": "Venlo",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0852006262",
-      "tblPointOfInterestWebsite": "http://credion.nl/noordenmiddenlimburg",
-      "tblPointOfInterestEmail": "nmlimburg@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 5964,
-        "tblPersonID": 933773,
-        "tblPersonName": "R.M.G. Dings"
-      },
-      {
-        "tblPointOfInterestID": 5964,
-        "tblPersonID": 945773,
-        "tblPersonName": "F.J. Groot"
-      },
-      {
-        "tblPointOfInterestID": 5964,
-        "tblPersonID": 969339,
-        "tblPersonName": "J.J.M.Th. Noteborn"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 5981,
     "tblPointOfInterestName": "Varink B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 5.3891744,
@@ -1569,32 +1497,6 @@
         "tblPointOfInterestID": 6358,
         "tblPersonID": 1004869,
         "tblPersonName": "R.W.J.J. Lubbers"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6903,
-    "tblPointOfInterestName": "Credion Noord- en Midden-Limburg / Soeverein IFS",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.7047334,
-    "tblPointOfInterestCoordinateRetrievedLat": 50.8379724,
-    "details": {
-      "tblPointOfInterestID": 6903,
-      "tblPointOfInterestName": "Credion Noord- en Midden-Limburg / Soeverein IFS",
-      "tblPointOfInterestStreet": "Gelissendomein",
-      "tblPointOfInterestNumber": 8,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "6229GJ",
-      "tblPointOfInterestCity": "Maastricht",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": null,
-      "tblPointOfInterestWebsite": null,
-      "tblPointOfInterestEmail": null
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6903,
-        "tblPersonID": 945773,
-        "tblPersonName": "F.J. Groot"
       }
     ]
   },
