@@ -2135,32 +2135,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 7293,
-    "tblPointOfInterestName": "Financieringsgilde Arnhem",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.9195861,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.9721826,
-    "details": {
-      "tblPointOfInterestID": 7293,
-      "tblPointOfInterestName": "Financieringsgilde Arnhem",
-      "tblPointOfInterestStreet": "Nieuwe Kade",
-      "tblPointOfInterestNumber": 16,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "6827AB",
-      "tblPointOfInterestCity": "Arnhem",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0611080201",
-      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/arnhem/",
-      "tblPointOfInterestEmail": "asatter@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7293,
-        "tblPersonID": 1007250,
-        "tblPersonName": "A Satter"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 7323,
     "tblPointOfInterestName": "Equiton",
     "tblPointOfInterestCoordinateRetrievedLong": 4.7571883,
