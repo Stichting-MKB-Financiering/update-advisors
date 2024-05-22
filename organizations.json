@@ -431,8 +431,8 @@
   {
     "tblPointOfInterestID": 6018,
     "tblPointOfInterestName": "NLInvesteert Drechtsteden",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.6570702,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.813949,
+    "tblPointOfInterestCoordinateRetrievedLong": 4.6570739,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.813965,
     "details": {
       "tblPointOfInterestID": 6018,
       "tblPointOfInterestName": "NLInvesteert Drechtsteden",
@@ -442,9 +442,9 @@
       "tblPointOfInterestPostalCode": "3311JD",
       "tblPointOfInterestCity": "Dordrecht",
       "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-42714433",
+      "tblPointOfInterestTelephone": "06-28580204",
       "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/drechtsteden",
-      "tblPointOfInterestEmail": "gsip@nlinvesteert.nl"
+      "tblPointOfInterestEmail": "wvanderbas@nlinvesteert.nl"
     },
     "advisors": [
       {
