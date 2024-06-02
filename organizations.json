@@ -2016,32 +2016,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 7255,
-    "tblPointOfInterestName": "Blink Financieel Advies B.V. / Credion Leiden",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.4738655,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.173567,
-    "details": {
-      "tblPointOfInterestID": 7255,
-      "tblPointOfInterestName": "Blink Financieel Advies B.V. / Credion Leiden",
-      "tblPointOfInterestStreet": "Rijnsburgerweg",
-      "tblPointOfInterestNumber": 159,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "2334 BP",
-      "tblPointOfInterestCity": "Leiden",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "071-3016016",
-      "tblPointOfInterestWebsite": "http://www.credion.nl/leiden",
-      "tblPointOfInterestEmail": "leiden@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7255,
-        "tblPersonID": 1140968,
-        "tblPersonName": "D van Egmond"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 7283,
     "tblPointOfInterestName": "Financieel Doordacht",
     "tblPointOfInterestCoordinateRetrievedLong": 6.6104337,
