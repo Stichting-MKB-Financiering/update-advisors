@@ -393,58 +393,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6065,
-    "tblPointOfInterestName": "PR1ORE, accountants & belastingadviseurs",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.9356126,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.9608494,
-    "details": {
-      "tblPointOfInterestID": 6065,
-      "tblPointOfInterestName": "PR1ORE, accountants & belastingadviseurs",
-      "tblPointOfInterestStreet": "De Opslach",
-      "tblPointOfInterestNumber": 65,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "8440 AN",
-      "tblPointOfInterestCity": "Heerenveen",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0513-657457",
-      "tblPointOfInterestWebsite": "http://www.priore.nl",
-      "tblPointOfInterestEmail": "tomboersma@priore.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6065,
-        "tblPersonID": 946863,
-        "tblPersonName": "T.P. Boersma"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6066,
-    "tblPointOfInterestName": "PR1ORE, accountants & belastingadviseurs",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.4421353,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.9792512,
-    "details": {
-      "tblPointOfInterestID": 6066,
-      "tblPointOfInterestName": "PR1ORE, accountants & belastingadviseurs",
-      "tblPointOfInterestStreet": "Merk",
-      "tblPointOfInterestNumber": 12,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "8711 CL",
-      "tblPointOfInterestCity": "Workum",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0515-542669",
-      "tblPointOfInterestWebsite": "http://www.priore.nl",
-      "tblPointOfInterestEmail": "tomboersma@priore.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6066,
-        "tblPersonID": 946863,
-        "tblPersonName": "T.P. Boersma"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6076,
     "tblPointOfInterestName": "Credion Gouda - Woerden - Lopikerwaard",
     "tblPointOfInterestCoordinateRetrievedLong": 4.686787,
