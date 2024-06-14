@@ -1,12 +1,12 @@
 [
   {
     "tblPointOfInterestID": 5963,
-    "tblPointOfInterestName": "Credion Noord- en Midden-Limburg",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.0206843,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.1927494,
+    "tblPointOfInterestName": "Credion Midden-Limburg",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.0209313,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.192507,
     "details": {
       "tblPointOfInterestID": 5963,
-      "tblPointOfInterestName": "Credion Noord- en Midden-Limburg",
+      "tblPointOfInterestName": "Credion Midden-Limburg",
       "tblPointOfInterestStreet": "Westhoven",
       "tblPointOfInterestNumber": 7,
       "tblPointOfInterestNumberAddition": null,
@@ -1052,32 +1052,6 @@
         "tblPointOfInterestID": 6358,
         "tblPersonID": 1004869,
         "tblPersonName": "R.W.J.J. Lubbers"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6903,
-    "tblPointOfInterestName": "Credion Noord- en Midden-Limburg / Soeverein IFS",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.7047334,
-    "tblPointOfInterestCoordinateRetrievedLat": 50.8379724,
-    "details": {
-      "tblPointOfInterestID": 6903,
-      "tblPointOfInterestName": "Credion Noord- en Midden-Limburg / Soeverein IFS",
-      "tblPointOfInterestStreet": "Gelissendomein",
-      "tblPointOfInterestNumber": 8,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "6229GJ",
-      "tblPointOfInterestCity": "Maastricht",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": null,
-      "tblPointOfInterestWebsite": null,
-      "tblPointOfInterestEmail": null
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6903,
-        "tblPersonID": 945773,
-        "tblPersonName": "F.J. Groot"
       }
     ]
   },
