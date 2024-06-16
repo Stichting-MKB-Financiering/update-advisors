@@ -222,11 +222,6 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6035,
-        "tblPersonID": 942644,
-        "tblPersonName": "P. van der Horst"
-      },
-      {
-        "tblPointOfInterestID": 6035,
         "tblPersonID": 984456,
         "tblPersonName": "Hans Eelman"
       }
