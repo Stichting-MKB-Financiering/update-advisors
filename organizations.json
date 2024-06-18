@@ -228,37 +228,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6039,
-    "tblPointOfInterestName": "Credion Rotterdam Rijnmond",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.4285193,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.9334987,
-    "details": {
-      "tblPointOfInterestID": 6039,
-      "tblPointOfInterestName": "Credion Rotterdam Rijnmond",
-      "tblPointOfInterestStreet": "Duyvesteynstraat",
-      "tblPointOfInterestNumber": 1,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "3042BA",
-      "tblPointOfInterestCity": "Rotterdam",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "010-7410532",
-      "tblPointOfInterestWebsite": "http://www.credion.nl/rotterdamrijnmond",
-      "tblPointOfInterestEmail": "rotterdam@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6039,
-        "tblPersonID": 943241,
-        "tblPersonName": "D.A. Nonnekes"
-      },
-      {
-        "tblPointOfInterestID": 6039,
-        "tblPersonID": 983497,
-        "tblPersonName": "A. Wevers"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6045,
     "tblPointOfInterestName": "Credion Deventer - Zutphen",
     "tblPointOfInterestCoordinateRetrievedLong": 6.1759109,
