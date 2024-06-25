@@ -136,6 +136,11 @@
         "tblPointOfInterestID": 6006,
         "tblPersonID": 940917,
         "tblPersonName": "J.M.T. Staal"
+      },
+      {
+        "tblPointOfInterestID": 6006,
+        "tblPersonID": 1010423,
+        "tblPersonName": "D. Quik"
       }
     ]
   },
@@ -246,6 +251,11 @@
       "tblPointOfInterestEmail": "rotterdam@credion.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 6039,
+        "tblPersonID": 943241,
+        "tblPersonName": "D.A. Nonnekes"
+      },
       {
         "tblPointOfInterestID": 6039,
         "tblPersonID": 983497,
