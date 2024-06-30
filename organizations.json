@@ -1486,32 +1486,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6959,
-    "tblPointOfInterestName": "Nederlands Financieel Centrum voor Ondernemers B.V.",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.2614676,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.402331,
-    "details": {
-      "tblPointOfInterestID": 6959,
-      "tblPointOfInterestName": "Nederlands Financieel Centrum voor Ondernemers B.V.",
-      "tblPointOfInterestStreet": "Zandzuigerstraat",
-      "tblPointOfInterestNumber": 14,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "1333 HD",
-      "tblPointOfInterestCity": "Almere",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "036-5462523",
-      "tblPointOfInterestWebsite": "http://www.nfco.nl",
-      "tblPointOfInterestEmail": "wilco@nfco.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6959,
-        "tblPersonID": 1019406,
-        "tblPersonName": "W.J. van der Maas"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6997,
     "tblPointOfInterestName": "Eijgen Finance Leeuwarden",
     "tblPointOfInterestCoordinateRetrievedLong": 5.7870647,
