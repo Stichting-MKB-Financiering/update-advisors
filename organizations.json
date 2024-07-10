@@ -2294,5 +2294,57 @@
         "tblPersonName": "Hans Eelman"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 8428,
+    "tblPointOfInterestName": "Credion",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.469936,
+    "tblPointOfInterestCoordinateRetrievedLat": 50.503887,
+    "details": {
+      "tblPointOfInterestID": 8428,
+      "tblPointOfInterestName": "Credion",
+      "tblPointOfInterestStreet": "Stationsstraat",
+      "tblPointOfInterestNumber": 82,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "6181AK",
+      "tblPointOfInterestCity": "Elsloo",
+      "country": "België",
+      "tblPointOfInterestTelephone": "0854891010",
+      "tblPointOfInterestWebsite": "http://www.credion.nl",
+      "tblPointOfInterestEmail": "middenlimburg@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 8428,
+        "tblPersonID": 1219274,
+        "tblPersonName": "M.G.M. janssen"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 8429,
+    "tblPointOfInterestName": "Credion",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.690271,
+    "tblPointOfInterestCoordinateRetrievedLat": 50.855717,
+    "details": {
+      "tblPointOfInterestID": 8429,
+      "tblPointOfInterestName": "Credion",
+      "tblPointOfInterestStreet": "Boschstraat",
+      "tblPointOfInterestNumber": 21,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "6211AS",
+      "tblPointOfInterestCity": "Maastricht",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0852006262",
+      "tblPointOfInterestWebsite": "http://www.credion.nl",
+      "tblPointOfInterestEmail": "middenlimburg@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 8429,
+        "tblPersonID": 1219274,
+        "tblPersonName": "M.G.M. janssen"
+      }
+    ]
   }
 ]
