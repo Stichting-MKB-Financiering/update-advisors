@@ -2372,5 +2372,31 @@
         "tblPersonName": "M.G.M. janssen"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 8441,
+    "tblPointOfInterestName": "Crossminds B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.5353196,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.9260988,
+    "details": {
+      "tblPointOfInterestID": 8441,
+      "tblPointOfInterestName": "Crossminds B.V.",
+      "tblPointOfInterestStreet": "Kralingseweg",
+      "tblPointOfInterestNumber": 241,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3062CE",
+      "tblPointOfInterestCity": "Rotterdam",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-13808688",
+      "tblPointOfInterestWebsite": "https://crossminds.nl/",
+      "tblPointOfInterestEmail": "richardcoppus@crossminds.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 8441,
+        "tblPersonID": 1220320,
+        "tblPersonName": "R.A.B. Coppus"
+      }
+    ]
   }
 ]
