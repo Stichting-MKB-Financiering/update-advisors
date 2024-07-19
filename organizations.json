@@ -1964,58 +1964,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 7214,
-    "tblPointOfInterestName": "MKB Finanz Veenendaal",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.5682212,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.0395923,
-    "details": {
-      "tblPointOfInterestID": 7214,
-      "tblPointOfInterestName": "MKB Finanz Veenendaal",
-      "tblPointOfInterestStreet": "Stationsstraat",
-      "tblPointOfInterestNumber": 78,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "3905 JK",
-      "tblPointOfInterestCity": "Veenendaal",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "085-0074049",
-      "tblPointOfInterestWebsite": "https://mkbfinanz.nl/",
-      "tblPointOfInterestEmail": "info@mkbfinanz.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7214,
-        "tblPersonID": 1150389,
-        "tblPersonName": "Q. Schaafsma"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 7215,
-    "tblPointOfInterestName": "MKB Finanz Hilversum",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.153987,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.200614,
-    "details": {
-      "tblPointOfInterestID": 7215,
-      "tblPointOfInterestName": "MKB Finanz Hilversum",
-      "tblPointOfInterestStreet": "Loosdrechtsebos",
-      "tblPointOfInterestNumber": 19,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "1213 RH",
-      "tblPointOfInterestCity": "Hilversum",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "085-0074049",
-      "tblPointOfInterestWebsite": "https://mkbfinanz.nl/",
-      "tblPointOfInterestEmail": "info@mkbfinanz.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7215,
-        "tblPersonID": 1150389,
-        "tblPersonName": "Q. Schaafsma"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 7230,
     "tblPointOfInterestName": "Distinction Bedrijfsfinancieringen Bedrijfskundig Advies",
     "tblPointOfInterestCoordinateRetrievedLong": 6.5552781,
