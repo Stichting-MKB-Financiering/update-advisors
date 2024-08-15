@@ -2163,8 +2163,8 @@
   {
     "tblPointOfInterestID": 8428,
     "tblPointOfInterestName": "Credion",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.469936,
-    "tblPointOfInterestCoordinateRetrievedLat": 50.503887,
+    "tblPointOfInterestCoordinateRetrievedLong": 5.7714664,
+    "tblPointOfInterestCoordinateRetrievedLat": 50.9462263,
     "details": {
       "tblPointOfInterestID": 8428,
       "tblPointOfInterestName": "Credion",
@@ -2173,7 +2173,7 @@
       "tblPointOfInterestNumberAddition": null,
       "tblPointOfInterestPostalCode": "6181AK",
       "tblPointOfInterestCity": "Elsloo",
-      "country": "België",
+      "country": "Nederland",
       "tblPointOfInterestTelephone": "0854891010",
       "tblPointOfInterestWebsite": "http://www.credion.nl",
       "tblPointOfInterestEmail": "middenlimburg@credion.nl"
