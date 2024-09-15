@@ -1133,58 +1133,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6130,
-    "tblPointOfInterestName": "Financieringsgilde Breda",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.8085781,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.5995351,
-    "details": {
-      "tblPointOfInterestID": 6130,
-      "tblPointOfInterestName": "Financieringsgilde Breda",
-      "tblPointOfInterestStreet": "Druivenstraat",
-      "tblPointOfInterestNumber": 47,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "4816KB",
-      "tblPointOfInterestCity": "Breda",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-28733170",
-      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl/breda",
-      "tblPointOfInterestEmail": "jgosenson@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6130,
-        "tblPersonID": 959237,
-        "tblPersonName": "J. Gosenson"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6131,
-    "tblPointOfInterestName": "Financieringsgilde Amsterdam",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.8578403,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.382749,
-    "details": {
-      "tblPointOfInterestID": 6131,
-      "tblPointOfInterestName": "Financieringsgilde Amsterdam",
-      "tblPointOfInterestStreet": "Willem de Zwijgerlaan",
-      "tblPointOfInterestNumber": 350,
-      "tblPointOfInterestNumberAddition": "2J",
-      "tblPointOfInterestPostalCode": "1055 RD",
-      "tblPointOfInterestCity": "Amsterdam",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0631960158",
-      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/vestigingen/amsterdam/",
-      "tblPointOfInterestEmail": "bvanoverloop@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6131,
-        "tblPersonID": 959635,
-        "tblPersonName": "B.H.M. van Overloop"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6141,
     "tblPointOfInterestName": "Mol Stapelfinancieren",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8174594,
@@ -1788,32 +1736,6 @@
         "tblPointOfInterestID": 7165,
         "tblPersonID": 1121526,
         "tblPersonName": "F.A.M.A. (Frank) de Laat"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 7180,
-    "tblPointOfInterestName": "Financieringsgilde Tilburg",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.0887368,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.5607657,
-    "details": {
-      "tblPointOfInterestID": 7180,
-      "tblPointOfInterestName": "Financieringsgilde Tilburg",
-      "tblPointOfInterestStreet": "Burgemeester Broxlaan 12",
-      "tblPointOfInterestNumber": 12,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5041SB",
-      "tblPointOfInterestCity": "Tilburg",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-28733170",
-      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl/tilburg",
-      "tblPointOfInterestEmail": "tilburg@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7180,
-        "tblPersonID": 959237,
-        "tblPersonName": "J. Gosenson"
       }
     ]
   },
