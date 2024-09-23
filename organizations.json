@@ -1819,12 +1819,12 @@
   },
   {
     "tblPointOfInterestID": 7283,
-    "tblPointOfInterestName": "Financieel Doordacht",
+    "tblPointOfInterestName": "Eijgen Finance Achterhoek",
     "tblPointOfInterestCoordinateRetrievedLong": 6.6104337,
     "tblPointOfInterestCoordinateRetrievedLat": 52.035054,
     "details": {
       "tblPointOfInterestID": 7283,
-      "tblPointOfInterestName": "Financieel Doordacht",
+      "tblPointOfInterestName": "Eijgen Finance Achterhoek",
       "tblPointOfInterestStreet": "Garstenveld",
       "tblPointOfInterestNumber": 43,
       "tblPointOfInterestNumberAddition": null,
@@ -1832,8 +1832,8 @@
       "tblPointOfInterestCity": "Groenlo",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "06-34138432",
-      "tblPointOfInterestWebsite": "http://www.financieeldoordacht.nl",
-      "tblPointOfInterestEmail": "guido@financieeldoordacht.nl"
+      "tblPointOfInterestWebsite": "http://www.eijgenfinance.nl",
+      "tblPointOfInterestEmail": "guido.reusen@eijgenfinance.nl"
     },
     "advisors": [
       {
