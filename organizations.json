@@ -242,6 +242,11 @@
       },
       {
         "tblPointOfInterestID": 6010,
+        "tblPersonID": 1157843,
+        "tblPersonName": "RP Extra"
+      },
+      {
+        "tblPointOfInterestID": 6010,
         "tblPersonID": 1158425,
         "tblPersonName": "R.H. Buiten"
       }
