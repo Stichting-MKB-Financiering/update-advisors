@@ -1740,32 +1740,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 7190,
-    "tblPointOfInterestName": "Stapelfinancieringen Rotterdam",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.4296971,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.9119156,
-    "details": {
-      "tblPointOfInterestID": 7190,
-      "tblPointOfInterestName": "Stapelfinancieringen Rotterdam",
-      "tblPointOfInterestStreet": "Marconistraat",
-      "tblPointOfInterestNumber": 16,
-      "tblPointOfInterestNumberAddition": "Rotterdam Science Tower",
-      "tblPointOfInterestPostalCode": "3029 AK",
-      "tblPointOfInterestCity": "ROTTERDAM",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-52408996",
-      "tblPointOfInterestWebsite": "https://www.stapelfinancieringen.nl/",
-      "tblPointOfInterestEmail": "rotterdam@stapelfinancieringen.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7190,
-        "tblPersonID": 966380,
-        "tblPersonName": "Alex van Kempen"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 7230,
     "tblPointOfInterestName": "Distinction Bedrijfsfinancieringen Bedrijfskundig Advies",
     "tblPointOfInterestCoordinateRetrievedLong": 6.5552781,
