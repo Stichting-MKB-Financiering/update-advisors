@@ -1138,6 +1138,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6130,
+    "tblPointOfInterestName": "Financieringsgilde Breda",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.8085781,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.5995351,
+    "details": {
+      "tblPointOfInterestID": 6130,
+      "tblPointOfInterestName": "Financieringsgilde Breda",
+      "tblPointOfInterestStreet": "Druivenstraat",
+      "tblPointOfInterestNumber": 47,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "4816KB",
+      "tblPointOfInterestCity": "Breda",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-28733170",
+      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl/breda",
+      "tblPointOfInterestEmail": "jgosenson@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6130,
+        "tblPersonID": 959237,
+        "tblPersonName": "J. Gosenson"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6141,
     "tblPointOfInterestName": "Mol Stapelfinancieren",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8174594,
@@ -1714,6 +1740,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7180,
+    "tblPointOfInterestName": "Financieringsgilde Tilburg",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.0887368,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.5607657,
+    "details": {
+      "tblPointOfInterestID": 7180,
+      "tblPointOfInterestName": "Financieringsgilde Tilburg",
+      "tblPointOfInterestStreet": "Burgemeester Broxlaan",
+      "tblPointOfInterestNumber": 12,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5041SB",
+      "tblPointOfInterestCity": "Tilburg",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-28733170",
+      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl/tilburg",
+      "tblPointOfInterestEmail": "tilburg@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7180,
+        "tblPersonID": 959237,
+        "tblPersonName": "J. Gosenson"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7181,
     "tblPointOfInterestName": "Bankkraft",
     "tblPointOfInterestCoordinateRetrievedLong": 6.5016922,
@@ -1788,6 +1840,32 @@
         "tblPointOfInterestID": 7283,
         "tblPersonID": 1145819,
         "tblPersonName": "G.A.M. Reusen"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7317,
+    "tblPointOfInterestName": "Financieringsgilde ZuidWest Nederland BV",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.4608379,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.5207267,
+    "details": {
+      "tblPointOfInterestID": 7317,
+      "tblPointOfInterestName": "Financieringsgilde ZuidWest Nederland BV",
+      "tblPointOfInterestStreet": "Valeriuslaan",
+      "tblPointOfInterestNumber": 49,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "4707BS",
+      "tblPointOfInterestCity": "Roosendaal",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-28733170",
+      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl/roosendaal",
+      "tblPointOfInterestEmail": "jgosenson@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7317,
+        "tblPersonID": 959237,
+        "tblPersonName": "J. Gosenson"
       }
     ]
   },
