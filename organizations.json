@@ -238,7 +238,7 @@
       {
         "tblPointOfInterestID": 6010,
         "tblPersonID": 1157843,
-        "tblPersonName": "RP Extra"
+        "tblPersonName": "Robbin Extra"
       },
       {
         "tblPointOfInterestID": 6010,
@@ -425,6 +425,11 @@
         "tblPointOfInterestID": 6017,
         "tblPersonID": 994459,
         "tblPersonName": "Martijn de Groot"
+      },
+      {
+        "tblPointOfInterestID": 6017,
+        "tblPersonID": 1157843,
+        "tblPersonName": "Robbin Extra"
       }
     ]
   },
