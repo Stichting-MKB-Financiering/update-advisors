@@ -595,32 +595,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6025,
-    "tblPointOfInterestName": "NLInvesteert Midden Gelderland",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.0565382,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.9386934,
-    "details": {
-      "tblPointOfInterestID": 6025,
-      "tblPointOfInterestName": "NLInvesteert Midden Gelderland",
-      "tblPointOfInterestStreet": "Citer",
-      "tblPointOfInterestNumber": 2,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "6904PW",
-      "tblPointOfInterestCity": "Zevenaar",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-53332242",
-      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/midden-gelderland",
-      "tblPointOfInterestEmail": "ptolboom@nlinvesteert.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6025,
-        "tblPersonID": 969818,
-        "tblPersonName": "P.H.R. Tolboom"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6026,
     "tblPointOfInterestName": "NLInvesteert Veluwe",
     "tblPointOfInterestCoordinateRetrievedLong": 5.6006018,
