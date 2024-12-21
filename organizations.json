@@ -1766,6 +1766,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7168,
+    "tblPointOfInterestName": "HSG Finance BV",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.9207472,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.9633361,
+    "details": {
+      "tblPointOfInterestID": 7168,
+      "tblPointOfInterestName": "HSG Finance BV",
+      "tblPointOfInterestStreet": "Leliestraat",
+      "tblPointOfInterestNumber": 21,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "8441DD",
+      "tblPointOfInterestCity": "Heerenveen",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-83922761",
+      "tblPointOfInterestWebsite": "http://www.hsgfinance.nl",
+      "tblPointOfInterestEmail": "info@hsgfinance.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7168,
+        "tblPersonID": 1121529,
+        "tblPersonName": "J Bijlsma"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7180,
     "tblPointOfInterestName": "Financieringsgilde Tilburg",
     "tblPointOfInterestCoordinateRetrievedLong": 5.0887368,
