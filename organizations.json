@@ -1169,6 +1169,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6131,
+    "tblPointOfInterestName": "Financieringsgilde Amsterdam",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.9651582,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.3726149,
+    "details": {
+      "tblPointOfInterestID": 6131,
+      "tblPointOfInterestName": "Financieringsgilde Amsterdam",
+      "tblPointOfInterestStreet": "Nida Senffstraat",
+      "tblPointOfInterestNumber": 12,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "1095 MX",
+      "tblPointOfInterestCity": "Amsterdam",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0631960158",
+      "tblPointOfInterestWebsite": "https://www.financieringsgilde.nl/vestigingen/amsterdam/",
+      "tblPointOfInterestEmail": "bvanoverloop@financieringsgilde.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6131,
+        "tblPersonID": 959635,
+        "tblPersonName": "B.H.M. van Overloop"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6141,
     "tblPointOfInterestName": "Mol Stapelfinancieren",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8174594,
