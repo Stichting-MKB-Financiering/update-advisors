@@ -20,11 +20,6 @@
     "advisors": [
       {
         "tblPointOfInterestID": 5963,
-        "tblPersonID": 933773,
-        "tblPersonName": "R.M.G. Dings"
-      },
-      {
-        "tblPointOfInterestID": 5963,
         "tblPersonID": 945773,
         "tblPersonName": "F.J. Groot"
       }
@@ -563,11 +558,6 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6023,
-        "tblPersonID": 982306,
-        "tblPersonName": "L.W.J. Noordman"
-      },
-      {
-        "tblPointOfInterestID": 6023,
         "tblPersonID": 1197684,
         "tblPersonName": "J.P. Verdoold"
       }
@@ -767,11 +757,6 @@
         "tblPointOfInterestID": 6045,
         "tblPersonID": 943664,
         "tblPersonName": "R. Buitink"
-      },
-      {
-        "tblPointOfInterestID": 6045,
-        "tblPersonID": 982551,
-        "tblPersonName": "J. Boerkamp"
       }
     ]
   },
@@ -798,11 +783,6 @@
         "tblPointOfInterestID": 6046,
         "tblPersonID": 943664,
         "tblPersonName": "R. Buitink"
-      },
-      {
-        "tblPointOfInterestID": 6046,
-        "tblPersonID": 982551,
-        "tblPersonName": "J. Boerkamp"
       }
     ]
   },
