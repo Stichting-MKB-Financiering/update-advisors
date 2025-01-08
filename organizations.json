@@ -2429,5 +2429,31 @@
         "tblPersonName": "h blokland"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 11443,
+    "tblPointOfInterestName": "Credion Noord Limburg",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.1854984,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.366592,
+    "details": {
+      "tblPointOfInterestID": 11443,
+      "tblPointOfInterestName": "Credion Noord Limburg",
+      "tblPointOfInterestStreet": "Stalbergweg",
+      "tblPointOfInterestNumber": 185,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "5913BM",
+      "tblPointOfInterestCity": "Venlo",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "+31628885772",
+      "tblPointOfInterestWebsite": "https://www.credion.eu/nl/adviseurs/rene-dings",
+      "tblPointOfInterestEmail": "rdings@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 11443,
+        "tblPersonID": 933773,
+        "tblPersonName": "R.M.G. Dings"
+      }
+    ]
   }
 ]
