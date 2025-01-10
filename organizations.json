@@ -1403,32 +1403,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6267,
-    "tblPointOfInterestName": "Business Finance Noord-Holland h/o Credion Heerhugowaard",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.8196406,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.6672378,
-    "details": {
-      "tblPointOfInterestID": 6267,
-      "tblPointOfInterestName": "Business Finance Noord-Holland h/o Credion Heerhugowaard",
-      "tblPointOfInterestStreet": "W.M. Dudokweg",
-      "tblPointOfInterestNumber": 27,
-      "tblPointOfInterestNumberAddition": "C",
-      "tblPointOfInterestPostalCode": "1703 DA",
-      "tblPointOfInterestCity": "Heerhugowaard",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "072-30 30 001",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/heerhugowaard",
-      "tblPointOfInterestEmail": "heerhugowaard@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6267,
-        "tblPersonID": 983309,
-        "tblPersonName": "K. Kiemel"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6358,
     "tblPointOfInterestName": "Credion Almelo",
     "tblPointOfInterestCoordinateRetrievedLong": 6.6566928,
