@@ -690,6 +690,11 @@
         "tblPointOfInterestID": 6035,
         "tblPersonID": 942644,
         "tblPersonName": "P. van der Horst"
+      },
+      {
+        "tblPointOfInterestID": 6035,
+        "tblPersonID": 984456,
+        "tblPersonName": "Hans Eelman"
       }
     ]
   },
@@ -1066,6 +1071,11 @@
       },
       {
         "tblPointOfInterestID": 6110,
+        "tblPersonID": 984456,
+        "tblPersonName": "Hans Eelman"
+      },
+      {
+        "tblPointOfInterestID": 6110,
         "tblPersonID": 1120488,
         "tblPersonName": "Daphne de Wit - de Ridder"
       }
@@ -1094,6 +1104,11 @@
         "tblPointOfInterestID": 6112,
         "tblPersonID": 959227,
         "tblPersonName": "Maarten Jeroen den Boer"
+      },
+      {
+        "tblPointOfInterestID": 6112,
+        "tblPersonID": 984456,
+        "tblPersonName": "Hans Eelman"
       },
       {
         "tblPointOfInterestID": 6112,
@@ -2182,6 +2197,11 @@
       },
       {
         "tblPointOfInterestID": 8380,
+        "tblPersonID": 984456,
+        "tblPersonName": "Hans Eelman"
+      },
+      {
+        "tblPointOfInterestID": 8380,
         "tblPersonID": 1120488,
         "tblPersonName": "Daphne de Wit - de Ridder"
       }
@@ -2215,6 +2235,32 @@
         "tblPointOfInterestID": 8381,
         "tblPersonID": 1120488,
         "tblPersonName": "Daphne de Wit - de Ridder"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 8385,
+    "tblPointOfInterestName": "Eelman MKB Advies",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.6213344,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.2587902,
+    "details": {
+      "tblPointOfInterestID": 8385,
+      "tblPointOfInterestName": "Eelman MKB Advies",
+      "tblPointOfInterestStreet": "Tetterode",
+      "tblPointOfInterestNumber": 18,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "2151RD",
+      "tblPointOfInterestCity": "Nieuw-Vennep",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0680093938",
+      "tblPointOfInterestWebsite": "https://www.eelmanmkbadvies.nl/",
+      "tblPointOfInterestEmail": "info@eelmanmkbadvies.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 8385,
+        "tblPersonID": 984456,
+        "tblPersonName": "Hans Eelman"
       }
     ]
   },
