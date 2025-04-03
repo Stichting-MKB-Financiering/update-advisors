@@ -1653,6 +1653,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7108,
+    "tblPointOfInterestName": "CROP corporate finance",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.1085202,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.0659393,
+    "details": {
+      "tblPointOfInterestID": 7108,
+      "tblPointOfInterestName": "CROP corporate finance",
+      "tblPointOfInterestStreet": "Europalaan",
+      "tblPointOfInterestNumber": 40,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3526KS",
+      "tblPointOfInterestCity": "Utrecht",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "030-6040035",
+      "tblPointOfInterestWebsite": "http://www.crop.nl",
+      "tblPointOfInterestEmail": "hblokland@crop.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7108,
+        "tblPersonID": 1195877,
+        "tblPersonName": "M Zinkstok"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7109,
     "tblPointOfInterestName": "Bol Corporate Finance B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 5.937631,
