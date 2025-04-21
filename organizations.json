@@ -1830,32 +1830,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 7230,
-    "tblPointOfInterestName": "Distinction Bedrijfsfinancieringen Bedrijfskundig Advies",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.5552781,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.9880726,
-    "details": {
-      "tblPointOfInterestID": 7230,
-      "tblPointOfInterestName": "Distinction Bedrijfsfinancieringen Bedrijfskundig Advies",
-      "tblPointOfInterestStreet": "Mozartstraat",
-      "tblPointOfInterestNumber": 1,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "7131 AG",
-      "tblPointOfInterestCity": "Lichtenvoorde",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0315-220000",
-      "tblPointOfInterestWebsite": "https://www.distinction.nl/",
-      "tblPointOfInterestEmail": "info@distinction.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7230,
-        "tblPersonID": 1135515,
-        "tblPersonName": "H.J.M. Duthler"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 7255,
     "tblPointOfInterestName": "Blink Financieel Advies B.V. / Credion Leiden",
     "tblPointOfInterestCoordinateRetrievedLong": 4.4738655,
