@@ -2274,5 +2274,31 @@
         "tblPersonName": "R.M.G. Dings"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 12626,
+    "tblPointOfInterestName": "Eijgen Finance Amsterdam B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.8100509,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.3902415,
+    "details": {
+      "tblPointOfInterestID": 12626,
+      "tblPointOfInterestName": "Eijgen Finance Amsterdam B.V.",
+      "tblPointOfInterestStreet": "Sierenborch",
+      "tblPointOfInterestNumber": 6,
+      "tblPointOfInterestNumberAddition": "c",
+      "tblPointOfInterestPostalCode": "1043BA",
+      "tblPointOfInterestCity": "Amsterdam",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-12748194",
+      "tblPointOfInterestWebsite": "https://www.eijgenfinance.nl/vestigingen/eijgen-finance-amsterdam/",
+      "tblPointOfInterestEmail": "Edward.vanderschaft@eijgenfinance.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 12626,
+        "tblPersonID": 1305005,
+        "tblPersonName": "E.H.C. van der Schaft"
+      }
+    ]
   }
 ]
