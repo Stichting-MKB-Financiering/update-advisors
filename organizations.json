@@ -2276,6 +2276,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 12625,
+    "tblPointOfInterestName": "Vrijzathe Financiële Dienstverlening",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.277675,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.3846942,
+    "details": {
+      "tblPointOfInterestID": 12625,
+      "tblPointOfInterestName": "Vrijzathe Financiële Dienstverlening",
+      "tblPointOfInterestStreet": "Antilopestraat",
+      "tblPointOfInterestNumber": 21,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "1338KP",
+      "tblPointOfInterestCity": "Almere",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0646047766",
+      "tblPointOfInterestWebsite": "http://www.vrijzathe.nl",
+      "tblPointOfInterestEmail": "g.engel@vrijzathe.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 12625,
+        "tblPersonID": 1304981,
+        "tblPersonName": "G.G. Engel"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 12626,
     "tblPointOfInterestName": "Eijgen Finance Amsterdam B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8100509,
