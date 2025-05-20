@@ -126,6 +126,11 @@
         "tblPointOfInterestID": 6006,
         "tblPersonID": 940917,
         "tblPersonName": "J.M.T. Staal"
+      },
+      {
+        "tblPointOfInterestID": 6006,
+        "tblPersonID": 1010423,
+        "tblPersonName": "D. Quik"
       }
     ]
   },
@@ -234,6 +239,11 @@
         "tblPointOfInterestID": 6010,
         "tblPersonID": 1158425,
         "tblPersonName": "R.H. Buiten"
+      },
+      {
+        "tblPointOfInterestID": 6010,
+        "tblPersonID": 1308515,
+        "tblPersonName": "N. Broersma"
       }
     ]
   },
