@@ -742,6 +742,11 @@
         "tblPointOfInterestID": 6168,
         "tblPersonID": 971623,
         "tblPersonName": "R.A. Gevers"
+      },
+      {
+        "tblPointOfInterestID": 6168,
+        "tblPersonID": 1122108,
+        "tblPersonName": "J van Eijk"
       }
     ]
   },
@@ -768,6 +773,11 @@
         "tblPointOfInterestID": 6187,
         "tblPersonID": 971623,
         "tblPersonName": "R.A. Gevers"
+      },
+      {
+        "tblPointOfInterestID": 6187,
+        "tblPersonID": 1122108,
+        "tblPersonName": "J van Eijk"
       }
     ]
   },
@@ -794,6 +804,11 @@
         "tblPointOfInterestID": 6188,
         "tblPersonID": 971623,
         "tblPersonName": "R.A. Gevers"
+      },
+      {
+        "tblPointOfInterestID": 6188,
+        "tblPersonID": 1122108,
+        "tblPersonName": "J van Eijk"
       }
     ]
   },
