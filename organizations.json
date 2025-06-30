@@ -217,6 +217,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 6039,
+        "tblPersonID": 943241,
+        "tblPersonName": "D.A. Nonnekes"
+      },
+      {
+        "tblPointOfInterestID": 6039,
         "tblPersonID": 983497,
         "tblPersonName": "A. Wevers"
       }
