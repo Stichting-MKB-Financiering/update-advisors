@@ -932,6 +932,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6959,
+    "tblPointOfInterestName": "Nederlands Financieel Centrum voor Ondernemers B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.2614676,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.402331,
+    "details": {
+      "tblPointOfInterestID": 6959,
+      "tblPointOfInterestName": "Nederlands Financieel Centrum voor Ondernemers B.V.",
+      "tblPointOfInterestStreet": "Zandzuigerstraat",
+      "tblPointOfInterestNumber": 14,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "1333 HD",
+      "tblPointOfInterestCity": "Almere",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "036-5462523",
+      "tblPointOfInterestWebsite": "http://www.nfco.nl",
+      "tblPointOfInterestEmail": "wilco@nfco.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6959,
+        "tblPersonID": 1019406,
+        "tblPersonName": "W.J. van der Maas"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6997,
     "tblPointOfInterestName": "Eijgen Finance Leeuwarden",
     "tblPointOfInterestCoordinateRetrievedLong": 5.7870647,
@@ -1318,6 +1344,32 @@
         "tblPointOfInterestID": 7215,
         "tblPersonID": 1150389,
         "tblPersonName": "Q. Schaafsma"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7255,
+    "tblPointOfInterestName": "Blink Financieel Advies B.V. / Credion Leiden",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.4738655,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.173567,
+    "details": {
+      "tblPointOfInterestID": 7255,
+      "tblPointOfInterestName": "Blink Financieel Advies B.V. / Credion Leiden",
+      "tblPointOfInterestStreet": "Rijnsburgerweg",
+      "tblPointOfInterestNumber": 159,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "2334 BP",
+      "tblPointOfInterestCity": "Leiden",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "071-3016016",
+      "tblPointOfInterestWebsite": "http://www.credion.nl/leiden",
+      "tblPointOfInterestEmail": "leiden@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7255,
+        "tblPersonID": 1140968,
+        "tblPersonName": "D van Egmond"
       }
     ]
   },
