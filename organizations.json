@@ -1,57 +1,5 @@
 [
   {
-    "tblPointOfInterestID": 5963,
-    "tblPointOfInterestName": "Credion Zuid-Limburg",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.7714664,
-    "tblPointOfInterestCoordinateRetrievedLat": 50.9462263,
-    "details": {
-      "tblPointOfInterestID": 5963,
-      "tblPointOfInterestName": "Credion Zuid-Limburg",
-      "tblPointOfInterestStreet": "Stationsstraat",
-      "tblPointOfInterestNumber": 82,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "6181AK",
-      "tblPointOfInterestCity": "Elsloo",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0854891010",
-      "tblPointOfInterestWebsite": "http://credion.nl/zuidlimburg",
-      "tblPointOfInterestEmail": "fgroot@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 5963,
-        "tblPersonID": 945773,
-        "tblPersonName": "F.J. Groot"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 5981,
-    "tblPointOfInterestName": "Varink B.V.",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.3891744,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.2112009,
-    "details": {
-      "tblPointOfInterestID": 5981,
-      "tblPointOfInterestName": "Varink B.V.",
-      "tblPointOfInterestStreet": "Zevenhuizerstraat",
-      "tblPointOfInterestNumber": 162,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "3751LD",
-      "tblPointOfInterestCity": "Bunschoten-Spakenburg",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0615143025",
-      "tblPointOfInterestWebsite": "http://www.varink.nl",
-      "tblPointOfInterestEmail": "duco@varink.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 5981,
-        "tblPersonID": 945768,
-        "tblPersonName": "J.G. Arink"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 5982,
     "tblPointOfInterestName": "Varink B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 4.393755,
@@ -1684,11 +1632,6 @@
     "advisors": [
       {
         "tblPointOfInterestID": 8428,
-        "tblPersonID": 945773,
-        "tblPersonName": "F.J. Groot"
-      },
-      {
-        "tblPointOfInterestID": 8428,
         "tblPersonID": 1219274,
         "tblPersonName": "M.G.M. janssen"
       }
@@ -1713,11 +1656,6 @@
       "tblPointOfInterestEmail": "fgroot@credion.nl"
     },
     "advisors": [
-      {
-        "tblPointOfInterestID": 8429,
-        "tblPersonID": 945773,
-        "tblPersonName": "F.J. Groot"
-      },
       {
         "tblPointOfInterestID": 8429,
         "tblPersonID": 1219274,
