@@ -854,6 +854,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6376,
+    "tblPointOfInterestName": "Credion Regio Zwolle",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.0868778,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.5101576,
+    "details": {
+      "tblPointOfInterestID": 6376,
+      "tblPointOfInterestName": "Credion Regio Zwolle",
+      "tblPointOfInterestStreet": "Emmawijk",
+      "tblPointOfInterestNumber": 1,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "8011 CM",
+      "tblPointOfInterestCity": "Zwolle",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-26436026",
+      "tblPointOfInterestWebsite": "https://www.credion.nl/regiozwolle",
+      "tblPointOfInterestEmail": "regiozwolle@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6376,
+        "tblPersonID": 1004864,
+        "tblPersonName": "R.E.R. Massaar"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6959,
     "tblPointOfInterestName": "Nederlands Financieel Centrum voor Ondernemers B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 5.2614676,
