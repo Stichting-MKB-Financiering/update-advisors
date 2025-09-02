@@ -1270,6 +1270,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7323,
+    "tblPointOfInterestName": "Equiton",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.7571883,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.5803791,
+    "details": {
+      "tblPointOfInterestID": 7323,
+      "tblPointOfInterestName": "Equiton",
+      "tblPointOfInterestStreet": "Scheldestraat",
+      "tblPointOfInterestNumber": 61,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "4812 XH",
+      "tblPointOfInterestCity": "Breda",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0654262741",
+      "tblPointOfInterestWebsite": "http://www.equiton.nl",
+      "tblPointOfInterestEmail": "info@equiton.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7323,
+        "tblPersonID": 1158086,
+        "tblPersonName": "M.W.M.F. Halters"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7339,
     "tblPointOfInterestName": "MKB Advies Partners B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8685398,
