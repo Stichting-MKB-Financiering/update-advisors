@@ -1714,5 +1714,31 @@
         "tblPersonName": "E.H.C. van der Schaft"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 12765,
+    "tblPointOfInterestName": "FinancialQuest ECH B.V. / Expertisecentrum Horeca",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.4997042,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.2268306,
+    "details": {
+      "tblPointOfInterestID": 12765,
+      "tblPointOfInterestName": "FinancialQuest ECH B.V. / Expertisecentrum Horeca",
+      "tblPointOfInterestStreet": "Baarslaan",
+      "tblPointOfInterestNumber": 53,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "2215XK",
+      "tblPointOfInterestCity": "Voorhout",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0614781885",
+      "tblPointOfInterestWebsite": "http://www.financialquest.nl",
+      "tblPointOfInterestEmail": "info@financialquest.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 12765,
+        "tblPersonID": 1107288,
+        "tblPersonName": "R van der Lans"
+      }
+    ]
   }
 ]
