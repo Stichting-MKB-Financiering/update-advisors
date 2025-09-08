@@ -958,6 +958,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7007,
+    "tblPointOfInterestName": "Dijk van Bedrijfsadvies h.o.d.n. Eijgen Finance Gelderse Vallei",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.6279159,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.084209,
+    "details": {
+      "tblPointOfInterestID": 7007,
+      "tblPointOfInterestName": "Dijk van Bedrijfsadvies h.o.d.n. Eijgen Finance Gelderse Vallei",
+      "tblPointOfInterestStreet": "Kastanjelaan Oost",
+      "tblPointOfInterestNumber": 37,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "6741DT",
+      "tblPointOfInterestCity": "Lunteren",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0619412950",
+      "tblPointOfInterestWebsite": "https://www.eijgenfinance.nl/vestigingen/eijgen-finance-geldersevallei/",
+      "tblPointOfInterestEmail": "tonny.vandijk@eijgenfinance.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7007,
+        "tblPersonID": 982828,
+        "tblPersonName": "O van Dijk"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7067,
     "tblPointOfInterestName": "Zaqelijk Maashorst",
     "tblPointOfInterestCoordinateRetrievedLong": 5.5101934,
