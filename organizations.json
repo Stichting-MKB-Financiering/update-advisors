@@ -312,6 +312,11 @@
         "tblPointOfInterestID": 6050,
         "tblPersonID": 976687,
         "tblPersonName": "Dick de Jong"
+      },
+      {
+        "tblPointOfInterestID": 6050,
+        "tblPersonID": 1011412,
+        "tblPersonName": "Liesbeth Fong"
       }
     ]
   },
@@ -1292,6 +1297,32 @@
         "tblPointOfInterestID": 7255,
         "tblPersonID": 1140968,
         "tblPersonName": "D van Egmond"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 7283,
+    "tblPointOfInterestName": "Eijgen Finance Achterhoek",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.6104337,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.035054,
+    "details": {
+      "tblPointOfInterestID": 7283,
+      "tblPointOfInterestName": "Eijgen Finance Achterhoek",
+      "tblPointOfInterestStreet": "Garstenveld",
+      "tblPointOfInterestNumber": 43,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "7141 NE",
+      "tblPointOfInterestCity": "Groenlo",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-34138432",
+      "tblPointOfInterestWebsite": "http://www.eijgenfinance.nl",
+      "tblPointOfInterestEmail": "guido.reusen@eijgenfinance.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7283,
+        "tblPersonID": 1145819,
+        "tblPersonName": "G.A.M. Reusen"
       }
     ]
   },
