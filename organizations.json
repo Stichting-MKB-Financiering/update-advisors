@@ -590,42 +590,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6159,
-    "tblPointOfInterestName": "Credion Noord Nederland",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.7974951,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.1982764,
-    "details": {
-      "tblPointOfInterestID": 6159,
-      "tblPointOfInterestName": "Credion Noord Nederland",
-      "tblPointOfInterestStreet": "Zuiderplein",
-      "tblPointOfInterestNumber": 21,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "8911 AM",
-      "tblPointOfInterestCity": "Leeuwarden",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "058-2027115",
-      "tblPointOfInterestWebsite": "http://www.credion.nl/friesland",
-      "tblPointOfInterestEmail": "noordnederland@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6159,
-        "tblPersonID": 966078,
-        "tblPersonName": "HJ Kieft"
-      },
-      {
-        "tblPointOfInterestID": 6159,
-        "tblPersonID": 1195894,
-        "tblPersonName": "RTA Sunder"
-      },
-      {
-        "tblPointOfInterestID": 6159,
-        "tblPersonID": 1309172,
-        "tblPersonName": "B.W. Hiemstra"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6168,
     "tblPointOfInterestName": "Credion Zuid-Hollandse Eilanden",
     "tblPointOfInterestCoordinateRetrievedLong": 4.4164575,
@@ -1437,68 +1401,6 @@
         "tblPointOfInterestID": 7377,
         "tblPersonID": 951114,
         "tblPersonName": "H van Montfort"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 8358,
-    "tblPointOfInterestName": "Credion Noord Nederland",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.6069415,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.2029867,
-    "details": {
-      "tblPointOfInterestID": 8358,
-      "tblPointOfInterestName": "Credion Noord Nederland",
-      "tblPointOfInterestStreet": "Bornholmstraat",
-      "tblPointOfInterestNumber": 90,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "9723 AZ",
-      "tblPointOfInterestCity": "Groningen",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0882733466",
-      "tblPointOfInterestWebsite": "http://www.credion.nl",
-      "tblPointOfInterestEmail": "noordnederland@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 8358,
-        "tblPersonID": 1195894,
-        "tblPersonName": "RTA Sunder"
-      },
-      {
-        "tblPointOfInterestID": 8358,
-        "tblPersonID": 1309172,
-        "tblPersonName": "B.W. Hiemstra"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 8359,
-    "tblPointOfInterestName": "Credion Noord Nederland",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.2736502,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.1505906,
-    "details": {
-      "tblPointOfInterestID": 8359,
-      "tblPointOfInterestName": "Credion Noord Nederland",
-      "tblPointOfInterestStreet": "De Bres",
-      "tblPointOfInterestNumber": 2,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "9363 TM",
-      "tblPointOfInterestCity": "Marum",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0882733466",
-      "tblPointOfInterestWebsite": "http://www.credion.nl",
-      "tblPointOfInterestEmail": "noordnederland@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 8359,
-        "tblPersonID": 1195894,
-        "tblPersonName": "RTA Sunder"
-      },
-      {
-        "tblPointOfInterestID": 8359,
-        "tblPersonID": 1309172,
-        "tblPersonName": "B.W. Hiemstra"
       }
     ]
   },
