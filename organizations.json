@@ -26,6 +26,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 5981,
+    "tblPointOfInterestName": "Varink B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.3891744,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.2112009,
+    "details": {
+      "tblPointOfInterestID": 5981,
+      "tblPointOfInterestName": "Varink B.V.",
+      "tblPointOfInterestStreet": "Zevenhuizerstraat",
+      "tblPointOfInterestNumber": 162,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3751LD",
+      "tblPointOfInterestCity": "Bunschoten-Spakenburg",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0615143025",
+      "tblPointOfInterestWebsite": "http://www.varink.nl",
+      "tblPointOfInterestEmail": "duco@varink.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 5981,
+        "tblPersonID": 945768,
+        "tblPersonName": "J.G. Arink"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 5982,
     "tblPointOfInterestName": "Varink B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 4.393755,
@@ -2220,6 +2246,32 @@
         "tblPointOfInterestID": 12775,
         "tblPersonID": 1010577,
         "tblPersonName": "A.W.T. van den Akker"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 12814,
+    "tblPointOfInterestName": "ZAQELIJK Lek- & Merwestreek",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.8057525,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.8277826,
+    "details": {
+      "tblPointOfInterestID": 12814,
+      "tblPointOfInterestName": "ZAQELIJK Lek- & Merwestreek",
+      "tblPointOfInterestStreet": "Moerbei",
+      "tblPointOfInterestNumber": 16,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "3371NZ",
+      "tblPointOfInterestCity": "Hardinxveld Giessendam",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0880049800",
+      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
+      "tblPointOfInterestEmail": "info@zaqelijk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 12814,
+        "tblPersonID": 949708,
+        "tblPersonName": "M.B. Damen"
       }
     ]
   },
