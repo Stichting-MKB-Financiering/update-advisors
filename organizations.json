@@ -1632,6 +1632,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 7178,
+    "tblPointOfInterestName": "Van Velzen Bedrijfsfinanciering",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.5123321,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.209925,
+    "details": {
+      "tblPointOfInterestID": 7178,
+      "tblPointOfInterestName": "Van Velzen Bedrijfsfinanciering",
+      "tblPointOfInterestStreet": "Wasbeeklaan",
+      "tblPointOfInterestNumber": 3,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "2361 HG",
+      "tblPointOfInterestCity": "Warmond",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0713012400",
+      "tblPointOfInterestWebsite": "http://www.vanvelzenaa.nl/bedrijfsfinanciering",
+      "tblPointOfInterestEmail": "rob@vanvelzenaa.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 7178,
+        "tblPersonID": 1122793,
+        "tblPersonName": "Rob Batenburg"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 7180,
     "tblPointOfInterestName": "Financieringsgilde Tilburg",
     "tblPointOfInterestCoordinateRetrievedLong": 5.0887368,
