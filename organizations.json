@@ -2192,6 +2192,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 11271,
+    "tblPointOfInterestName": "Credion Haarlem",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.6025041,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.4611767,
+    "details": {
+      "tblPointOfInterestID": 11271,
+      "tblPointOfInterestName": "Credion Haarlem",
+      "tblPointOfInterestStreet": "Kennemerlaan",
+      "tblPointOfInterestNumber": 1,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "1972 EG",
+      "tblPointOfInterestCity": "IJmuiden",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0232084004",
+      "tblPointOfInterestWebsite": "https://www.credion.eu/nl/haarlem",
+      "tblPointOfInterestEmail": "haarlem@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 11271,
+        "tblPersonID": 1239444,
+        "tblPersonName": "M. Frai"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 11355,
     "tblPointOfInterestName": "CROP corporate finance",
     "tblPointOfInterestCoordinateRetrievedLong": 5.4079416,
