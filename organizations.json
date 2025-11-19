@@ -2057,6 +2057,11 @@
     "advisors": [
       {
         "tblPointOfInterestID": 8358,
+        "tblPersonID": 966078,
+        "tblPersonName": "HJ Kieft"
+      },
+      {
+        "tblPointOfInterestID": 8358,
         "tblPersonID": 1195894,
         "tblPersonName": "RTA Sunder"
       },
@@ -2086,6 +2091,11 @@
       "tblPointOfInterestEmail": "noordnederland@credion.nl"
     },
     "advisors": [
+      {
+        "tblPointOfInterestID": 8359,
+        "tblPersonID": 966078,
+        "tblPersonName": "HJ Kieft"
+      },
       {
         "tblPointOfInterestID": 8359,
         "tblPersonID": 1195894,
@@ -2266,6 +2276,32 @@
         "tblPointOfInterestID": 11271,
         "tblPersonID": 1239444,
         "tblPersonName": "M. Frai"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 11329,
+    "tblPointOfInterestName": "Credion Agrarisch Team Noord",
+    "tblPointOfInterestCoordinateRetrievedLong": 7.1862965,
+    "tblPointOfInterestCoordinateRetrievedLat": 53.1083267,
+    "details": {
+      "tblPointOfInterestID": 11329,
+      "tblPointOfInterestName": "Credion Agrarisch Team Noord",
+      "tblPointOfInterestStreet": "Kanaaldijk W.Z.",
+      "tblPointOfInterestNumber": 4,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "9695VA",
+      "tblPointOfInterestCity": "BELLINGWOLDE",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0623963310",
+      "tblPointOfInterestWebsite": "https://www.credion.eu/nl/agrarisch-team-noord",
+      "tblPointOfInterestEmail": "hjkieft@credion.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 11329,
+        "tblPersonID": 966078,
+        "tblPersonName": "HJ Kieft"
       }
     ]
   },
