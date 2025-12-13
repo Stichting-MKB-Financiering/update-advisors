@@ -576,11 +576,6 @@
         "tblPointOfInterestID": 6026,
         "tblPersonID": 941284,
         "tblPersonName": "N.J. Doorenspleet"
-      },
-      {
-        "tblPointOfInterestID": 6026,
-        "tblPersonID": 976680,
-        "tblPersonName": "N Valente"
       }
     ]
   },
@@ -1290,32 +1285,6 @@
         "tblPointOfInterestID": 6192,
         "tblPersonID": 958950,
         "tblPersonName": "L.D.J. Westmaas"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6217,
-    "tblPointOfInterestName": "Ventus Advies",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.8345193,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.4492631,
-    "details": {
-      "tblPointOfInterestID": 6217,
-      "tblPointOfInterestName": "Ventus Advies",
-      "tblPointOfInterestStreet": "Postbus",
-      "tblPointOfInterestNumber": 40,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "8080 AA",
-      "tblPointOfInterestCity": "Elburg",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "085 047 94 27",
-      "tblPointOfInterestWebsite": "http://www.ventusadvies.nl",
-      "tblPointOfInterestEmail": "info@ventusadvies.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6217,
-        "tblPersonID": 962026,
-        "tblPersonName": "G. van 't Veen"
       }
     ]
   },
