@@ -2579,5 +2579,31 @@
         "tblPersonName": "R.A. Gevers"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 12959,
+    "tblPointOfInterestName": "Koers & Kapitaal",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.3937454,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.2014889,
+    "details": {
+      "tblPointOfInterestID": 12959,
+      "tblPointOfInterestName": "Koers & Kapitaal",
+      "tblPointOfInterestStreet": "Tadamastraat",
+      "tblPointOfInterestNumber": 11,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "2225HR",
+      "tblPointOfInterestCity": "Katwijk",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-30482521",
+      "tblPointOfInterestWebsite": "http://www.koersenkapitaal.nl",
+      "tblPointOfInterestEmail": "peter@koersenkapitaal.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 12959,
+        "tblPersonID": 945776,
+        "tblPersonName": "P.G. Varkevisser"
+      }
+    ]
   }
 ]
