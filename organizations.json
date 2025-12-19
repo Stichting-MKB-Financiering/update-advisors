@@ -1902,37 +1902,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 7355,
-    "tblPointOfInterestName": "Credion Den Haag",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.3570015,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.0491435,
-    "details": {
-      "tblPointOfInterestID": 7355,
-      "tblPointOfInterestName": "Credion Den Haag",
-      "tblPointOfInterestStreet": "Laan van 's-Gravenmade",
-      "tblPointOfInterestNumber": 28,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "2495AJ",
-      "tblPointOfInterestCity": "'s-Gravenhage",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0621174497",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/denhaag",
-      "tblPointOfInterestEmail": "kvankempen@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7355,
-        "tblPersonID": 940668,
-        "tblPersonName": "K. van Kempen"
-      },
-      {
-        "tblPointOfInterestID": 7355,
-        "tblPersonID": 983497,
-        "tblPersonName": "A. Wevers"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 7377,
     "tblPointOfInterestName": "Credion Zuidoost Brabant",
     "tblPointOfInterestCoordinateRetrievedLong": 5.2633805,
