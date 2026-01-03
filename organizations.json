@@ -585,32 +585,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6027,
-    "tblPointOfInterestName": "NLInvesteert Oost-Nederland",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.6133748,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.4123053,
-    "details": {
-      "tblPointOfInterestID": 6027,
-      "tblPointOfInterestName": "NLInvesteert Oost-Nederland",
-      "tblPointOfInterestStreet": "Beekdal",
-      "tblPointOfInterestNumber": 19,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "7672BB",
-      "tblPointOfInterestCity": "Vriezenveen",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-51439146",
-      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl",
-      "tblPointOfInterestEmail": "cvanhetlaar@nlinvesteert.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6027,
-        "tblPersonID": 1114351,
-        "tblPersonName": "C. van het Laar"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6035,
     "tblPointOfInterestName": "Credion Haarlemmermeer en Schiphol",
     "tblPointOfInterestCoordinateRetrievedLong": 4.7103248,
