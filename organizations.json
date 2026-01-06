@@ -2301,32 +2301,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 12815,
-    "tblPointOfInterestName": "ZAQELIJK Altena",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.0286379,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.7802182,
-    "details": {
-      "tblPointOfInterestID": 12815,
-      "tblPointOfInterestName": "ZAQELIJK Altena",
-      "tblPointOfInterestStreet": "Distributiestraat",
-      "tblPointOfInterestNumber": 25,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "4283 JN",
-      "tblPointOfInterestCity": "Giessen",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0880049800",
-      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
-      "tblPointOfInterestEmail": "info@zaqelijk.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 12815,
-        "tblPersonID": 983160,
-        "tblPersonName": "G.J. Verhoeks-Bok"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 12818,
     "tblPointOfInterestName": "ZAQELIJK Drechtsteden",
     "tblPointOfInterestCoordinateRetrievedLong": 4.6223382,
