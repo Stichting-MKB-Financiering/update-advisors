@@ -633,11 +633,6 @@
         "tblPointOfInterestID": 6039,
         "tblPersonID": 943241,
         "tblPersonName": "D.A. Nonnekes"
-      },
-      {
-        "tblPointOfInterestID": 6039,
-        "tblPersonID": 983497,
-        "tblPersonName": "A. Wevers"
       }
     ]
   },
@@ -1316,32 +1311,6 @@
         "tblPointOfInterestID": 6218,
         "tblPersonID": 1120928,
         "tblPersonName": "I.Y.A. Galama MBA EFM"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6267,
-    "tblPointOfInterestName": "Business Finance Noord-Holland h/o Credion Heerhugowaard",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.8160475,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.6656795,
-    "details": {
-      "tblPointOfInterestID": 6267,
-      "tblPointOfInterestName": "Business Finance Noord-Holland h/o Credion Heerhugowaard",
-      "tblPointOfInterestStreet": "W.M. Dudokweg",
-      "tblPointOfInterestNumber": 12,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "1703 DB",
-      "tblPointOfInterestCity": "Heerhugowaard",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "072-30 30 001",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/heerhugowaard",
-      "tblPointOfInterestEmail": "heerhugowaard@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6267,
-        "tblPersonID": 983309,
-        "tblPersonName": "K. Kiemel"
       }
     ]
   },
