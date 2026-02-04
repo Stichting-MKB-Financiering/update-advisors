@@ -2472,6 +2472,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 12957,
+    "tblPointOfInterestName": "Moore MKW Corporate Finance",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.1239292,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.5083891,
+    "details": {
+      "tblPointOfInterestID": 12957,
+      "tblPointOfInterestName": "Moore MKW Corporate Finance",
+      "tblPointOfInterestStreet": "Dokter van Deenweg",
+      "tblPointOfInterestNumber": 120,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "8025 BN",
+      "tblPointOfInterestCity": "Zwolle",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": null,
+      "tblPointOfInterestWebsite": null,
+      "tblPointOfInterestEmail": null
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 12957,
+        "tblPersonID": 1365374,
+        "tblPersonName": "A.J.H. Baltus"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 12959,
     "tblPointOfInterestName": "Koers & Kapitaal",
     "tblPointOfInterestCoordinateRetrievedLong": 4.3937454,
