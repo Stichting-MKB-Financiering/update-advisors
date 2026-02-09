@@ -2485,9 +2485,9 @@
       "tblPointOfInterestPostalCode": "8025 BN",
       "tblPointOfInterestCity": "Zwolle",
       "country": "Nederland",
-      "tblPointOfInterestTelephone": null,
-      "tblPointOfInterestWebsite": null,
-      "tblPointOfInterestEmail": null
+      "tblPointOfInterestTelephone": "0611497028",
+      "tblPointOfInterestWebsite": "https://moore-mkw.nl/",
+      "tblPointOfInterestEmail": "alrik.baltus@moore-mkw.nl"
     },
     "advisors": [
       {
