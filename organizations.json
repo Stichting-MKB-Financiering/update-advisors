@@ -2435,5 +2435,31 @@
         "tblPersonName": "P.G. Varkevisser"
       }
     ]
+  },
+  {
+    "tblPointOfInterestID": 13121,
+    "tblPointOfInterestName": "Hoekstra Assurantie & Makelaardij B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 5.5960112,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.6619688,
+    "details": {
+      "tblPointOfInterestID": 13121,
+      "tblPointOfInterestName": "Hoekstra Assurantie & Makelaardij B.V.",
+      "tblPointOfInterestStreet": "Wijk 4",
+      "tblPointOfInterestNumber": 22,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "8321gd",
+      "tblPointOfInterestCity": "urk",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "0527681396",
+      "tblPointOfInterestWebsite": "http://www.hoekstra-urk.nl",
+      "tblPointOfInterestEmail": "hypotheken@hoekstra-urk.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 13121,
+        "tblPersonID": 1337633,
+        "tblPersonName": "SJ Eskes"
+      }
+    ]
   }
 ]
