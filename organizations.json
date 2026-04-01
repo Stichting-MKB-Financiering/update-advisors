@@ -201,6 +201,11 @@
       },
       {
         "tblPointOfInterestID": 6010,
+        "tblPersonID": 1158425,
+        "tblPersonName": "R.H. Buiten"
+      },
+      {
+        "tblPointOfInterestID": 6010,
         "tblPersonID": 1308515,
         "tblPersonName": "N. Broersma"
       }
@@ -414,6 +419,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6019,
+    "tblPointOfInterestName": "NLInvesteert West Brabant",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.7366248,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.6239159,
+    "details": {
+      "tblPointOfInterestID": 6019,
+      "tblPointOfInterestName": "NLInvesteert West Brabant",
+      "tblPointOfInterestStreet": "Donkslagen",
+      "tblPointOfInterestNumber": 55,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "4823KG",
+      "tblPointOfInterestCity": "Breda",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-38292095",
+      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/west-brabant",
+      "tblPointOfInterestEmail": "sschrauwen@nlinvesteert.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6019,
+        "tblPersonID": 972944,
+        "tblPersonName": "Sandra Schrauwen"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6020,
     "tblPointOfInterestName": "NLInvesteert Oost Brabant",
     "tblPointOfInterestCoordinateRetrievedLong": 5.6229993,
@@ -462,6 +493,32 @@
         "tblPointOfInterestID": 6021,
         "tblPersonID": 941284,
         "tblPersonName": "N.J. Doorenspleet"
+      }
+    ]
+  },
+  {
+    "tblPointOfInterestID": 6023,
+    "tblPointOfInterestName": "NLInvesteert Groene Hart",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.8714862,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.0229791,
+    "details": {
+      "tblPointOfInterestID": 6023,
+      "tblPointOfInterestName": "NLInvesteert Groene Hart",
+      "tblPointOfInterestStreet": "Markstraat",
+      "tblPointOfInterestNumber": 8,
+      "tblPointOfInterestNumberAddition": "D",
+      "tblPointOfInterestPostalCode": "3421AR",
+      "tblPointOfInterestCity": "Oudewater",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-31930579",
+      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl",
+      "tblPointOfInterestEmail": "lnoordman@nlinvesteert.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6023,
+        "tblPersonID": 1197684,
+        "tblPersonName": "J.P. Verdoold"
       }
     ]
   },
@@ -1296,37 +1353,6 @@
         "tblPointOfInterestID": 6358,
         "tblPersonID": 1004869,
         "tblPersonName": "R.W.J.J. Lubbers"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6376,
-    "tblPointOfInterestName": "Credion Regio Zwolle",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.0868778,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.5101576,
-    "details": {
-      "tblPointOfInterestID": 6376,
-      "tblPointOfInterestName": "Credion Regio Zwolle",
-      "tblPointOfInterestStreet": "Emmawijk",
-      "tblPointOfInterestNumber": 1,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "8011 CM",
-      "tblPointOfInterestCity": "Zwolle",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-26436026",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/regiozwolle",
-      "tblPointOfInterestEmail": "regiozwolle@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6376,
-        "tblPersonID": 1004864,
-        "tblPersonName": "R.E.R. Massaar"
-      },
-      {
-        "tblPointOfInterestID": 6376,
-        "tblPersonID": 1004892,
-        "tblPersonName": "J.A. Vervat"
       }
     ]
   },
