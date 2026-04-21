@@ -1166,12 +1166,12 @@
   },
   {
     "tblPointOfInterestID": 6168,
-    "tblPointOfInterestName": "Credion Zuid-Hollandse Eilanden",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.4164575,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.8148022,
+    "tblPointOfInterestName": "OptiFin-Advies B.V.",
+    "tblPointOfInterestCoordinateRetrievedLong": 4.4165009,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.8148236,
     "details": {
       "tblPointOfInterestID": 6168,
-      "tblPointOfInterestName": "Credion Zuid-Hollandse Eilanden",
+      "tblPointOfInterestName": "OptiFin-Advies B.V.",
       "tblPointOfInterestStreet": "Maseratilaan",
       "tblPointOfInterestNumber": 10,
       "tblPointOfInterestNumberAddition": null,
@@ -1179,8 +1179,8 @@
       "tblPointOfInterestCity": "Oud-Beijerland",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "088-1337310 / 06-10111511",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/zuidhollandseeilanden",
-      "tblPointOfInterestEmail": "zhe@credion.nl"
+      "tblPointOfInterestWebsite": "https://www.optifin.nl",
+      "tblPointOfInterestEmail": "contact@optifin.nl"
     },
     "advisors": [
       {
@@ -1192,12 +1192,12 @@
   },
   {
     "tblPointOfInterestID": 6187,
-    "tblPointOfInterestName": "Credion Zuid-Hollandse Eilanden",
+    "tblPointOfInterestName": "OptiFin-Advies B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 4.1731908,
     "tblPointOfInterestCoordinateRetrievedLat": 51.8982958,
     "details": {
       "tblPointOfInterestID": 6187,
-      "tblPointOfInterestName": "Credion Zuid-Hollandse Eilanden",
+      "tblPointOfInterestName": "OptiFin-Advies B.V.",
       "tblPointOfInterestStreet": "Amer",
       "tblPointOfInterestNumber": 11,
       "tblPointOfInterestNumberAddition": null,
@@ -1205,8 +1205,8 @@
       "tblPointOfInterestCity": "Brielle",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "088-1337310 / 06-10111511",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/zuidhollandseeilanden",
-      "tblPointOfInterestEmail": "zhe@credion.nl"
+      "tblPointOfInterestWebsite": "https://www.optifin.nl",
+      "tblPointOfInterestEmail": "contact@optifin.nl"
     },
     "advisors": [
       {
@@ -1218,12 +1218,12 @@
   },
   {
     "tblPointOfInterestID": 6188,
-    "tblPointOfInterestName": "Credion Zuid-Hollandse Eilanden",
+    "tblPointOfInterestName": "OptiFin-Advies B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 4.1746264,
     "tblPointOfInterestCoordinateRetrievedLat": 51.7520047,
     "details": {
       "tblPointOfInterestID": 6188,
-      "tblPointOfInterestName": "Credion Zuid-Hollandse Eilanden",
+      "tblPointOfInterestName": "OptiFin-Advies B.V.",
       "tblPointOfInterestStreet": "De Hofjes",
       "tblPointOfInterestNumber": 18,
       "tblPointOfInterestNumberAddition": null,
@@ -1231,8 +1231,8 @@
       "tblPointOfInterestCity": "Middelharnis",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "088-1337310 / 06-10111511",
-      "tblPointOfInterestWebsite": "https://www.credion.nl/zuidhollandseeilanden",
-      "tblPointOfInterestEmail": "zhe@credion.nl"
+      "tblPointOfInterestWebsite": "https://www.optifin.nl",
+      "tblPointOfInterestEmail": "contact@optifin.nl"
     },
     "advisors": [
       {
