@@ -958,42 +958,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6110,
-    "tblPointOfInterestName": "Credion Amsterdam MB Adviesgroep",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.9148684,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.3329605,
-    "details": {
-      "tblPointOfInterestID": 6110,
-      "tblPointOfInterestName": "Credion Amsterdam MB Adviesgroep",
-      "tblPointOfInterestStreet": "Joan Muyskenweg",
-      "tblPointOfInterestNumber": 22,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "1096 CJ",
-      "tblPointOfInterestCity": "Amsterdam",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0299405756",
-      "tblPointOfInterestWebsite": "https://www.mbadviesgroep.nl/",
-      "tblPointOfInterestEmail": "secretariaat@mbadviesgroep.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6110,
-        "tblPersonID": 959227,
-        "tblPersonName": "Maarten Jeroen den Boer"
-      },
-      {
-        "tblPointOfInterestID": 6110,
-        "tblPersonID": 984456,
-        "tblPersonName": "Hans Eelman"
-      },
-      {
-        "tblPointOfInterestID": 6110,
-        "tblPersonID": 1120488,
-        "tblPersonName": "Daphne de Wit - de Ridder"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6112,
     "tblPointOfInterestName": "Credion Texel MB Adviesgroep",
     "tblPointOfInterestCoordinateRetrievedLong": 4.8015718,
