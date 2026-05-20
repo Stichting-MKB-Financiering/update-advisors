@@ -146,11 +146,6 @@
         "tblPointOfInterestID": 6010,
         "tblPersonID": 1158425,
         "tblPersonName": "R.H. Buiten"
-      },
-      {
-        "tblPointOfInterestID": 6010,
-        "tblPersonID": 1308515,
-        "tblPersonName": "N. Broersma"
       }
     ]
   },
@@ -208,11 +203,6 @@
         "tblPointOfInterestID": 6012,
         "tblPersonID": 941284,
         "tblPersonName": "N.J. Doorenspleet"
-      },
-      {
-        "tblPointOfInterestID": 6012,
-        "tblPersonID": 1308961,
-        "tblPersonName": "TJ de Groot"
       }
     ]
   },
