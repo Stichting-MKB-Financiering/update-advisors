@@ -78,63 +78,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6007,
-    "tblPointOfInterestName": "Stapelfinancieringen Tilburg",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.0887368,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.5607657,
-    "details": {
-      "tblPointOfInterestID": 6007,
-      "tblPointOfInterestName": "Stapelfinancieringen Tilburg",
-      "tblPointOfInterestStreet": "Burgemeester Brokxlaan",
-      "tblPointOfInterestNumber": 12,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5041SB",
-      "tblPointOfInterestCity": "TILBURG",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0646768301",
-      "tblPointOfInterestWebsite": "http://www.stapelfinancieringen.nl",
-      "tblPointOfInterestEmail": "info@stapelfinancieringen.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6007,
-        "tblPersonID": 940916,
-        "tblPersonName": "L. van Breugel"
-      },
-      {
-        "tblPointOfInterestID": 6007,
-        "tblPersonID": 953626,
-        "tblPersonName": "M.J.M.C. Kreijns-Vermeulen"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6008,
-    "tblPointOfInterestName": "Stapelfinancieringen Eindhoven",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.4599642,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.4447772,
-    "details": {
-      "tblPointOfInterestID": 6008,
-      "tblPointOfInterestName": "Stapelfinancieringen Eindhoven",
-      "tblPointOfInterestStreet": "Kastanjelaan",
-      "tblPointOfInterestNumber": 400,
-      "tblPointOfInterestNumberAddition": "Microlab-Strijp S",
-      "tblPointOfInterestPostalCode": "5616 LZ",
-      "tblPointOfInterestCity": "Eindhoven",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0646768301",
-      "tblPointOfInterestWebsite": "http://www.stapelfinancieringen.nl",
-      "tblPointOfInterestEmail": "info@stapelfinancieringen.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6008,
-        "tblPersonID": 953626,
-        "tblPersonName": "M.J.M.C. Kreijns-Vermeulen"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6010,
     "tblPointOfInterestName": "NLInvesteert",
     "tblPointOfInterestCoordinateRetrievedLong": 5.6006018,
@@ -1245,32 +1188,6 @@
         "tblPointOfInterestID": 6959,
         "tblPersonID": 1019406,
         "tblPersonName": "W.J. van der Maas"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6997,
-    "tblPointOfInterestName": "Eijgen Finance Leeuwarden",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.7870647,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.203807,
-    "details": {
-      "tblPointOfInterestID": 6997,
-      "tblPointOfInterestName": "Eijgen Finance Leeuwarden",
-      "tblPointOfInterestStreet": "Harlingersingel",
-      "tblPointOfInterestNumber": 23,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "8913 CJ",
-      "tblPointOfInterestCity": "Leeuwarden",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "088-5150222",
-      "tblPointOfInterestWebsite": "http://www.eijgenfinance.nl",
-      "tblPointOfInterestEmail": "johan@eijgenfinance.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6997,
-        "tblPersonID": 940532,
-        "tblPersonName": "J.E. Westra"
       }
     ]
   },
