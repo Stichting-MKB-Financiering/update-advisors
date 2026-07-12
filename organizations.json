@@ -425,58 +425,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6045,
-    "tblPointOfInterestName": "Credion Deventer - Zutphen",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.1759109,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.2465584,
-    "details": {
-      "tblPointOfInterestID": 6045,
-      "tblPointOfInterestName": "Credion Deventer - Zutphen",
-      "tblPointOfInterestStreet": "Hanzeweg",
-      "tblPointOfInterestNumber": 20,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "7418 AT",
-      "tblPointOfInterestCity": "Deventer",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0610905516",
-      "tblPointOfInterestWebsite": "http://www.credion.nl/deventer-zutphen",
-      "tblPointOfInterestEmail": "deventer@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6045,
-        "tblPersonID": 943664,
-        "tblPersonName": "R. Buitink"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 6046,
-    "tblPointOfInterestName": "Credion Deventer - Zutphen",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.2173928,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.1373265,
-    "details": {
-      "tblPointOfInterestID": 6046,
-      "tblPointOfInterestName": "Credion Deventer - Zutphen",
-      "tblPointOfInterestStreet": "Piet Heinstraat",
-      "tblPointOfInterestNumber": 5,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "7204 JN",
-      "tblPointOfInterestCity": "Zutphen",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0610905516",
-      "tblPointOfInterestWebsite": "http://www.credion.nl/deventer-zutphen",
-      "tblPointOfInterestEmail": "deventer@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6046,
-        "tblPersonID": 943664,
-        "tblPersonName": "R. Buitink"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6049,
     "tblPointOfInterestName": "Credion Zeeland",
     "tblPointOfInterestCoordinateRetrievedLong": 3.8919409,
