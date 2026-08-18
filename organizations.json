@@ -784,8 +784,8 @@
   {
     "tblPointOfInterestID": 6130,
     "tblPointOfInterestName": "Financieringsgilde Breda",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.8085781,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.5995351,
+    "tblPointOfInterestCoordinateRetrievedLong": 4.8085919,
+    "tblPointOfInterestCoordinateRetrievedLat": 51.5994935,
     "details": {
       "tblPointOfInterestID": 6130,
       "tblPointOfInterestName": "Financieringsgilde Breda",
@@ -795,9 +795,9 @@
       "tblPointOfInterestPostalCode": "4816KB",
       "tblPointOfInterestCity": "Breda",
       "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-28733170",
+      "tblPointOfInterestTelephone": "085-8640317",
       "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl/breda",
-      "tblPointOfInterestEmail": "jgosenson@financieringsgilde.nl"
+      "tblPointOfInterestEmail": "breda@financieringsgilde.nl"
     },
     "advisors": [
       {
@@ -1281,32 +1281,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 7180,
-    "tblPointOfInterestName": "Financieringsgilde Tilburg",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.0887368,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.5607657,
-    "details": {
-      "tblPointOfInterestID": 7180,
-      "tblPointOfInterestName": "Financieringsgilde Tilburg",
-      "tblPointOfInterestStreet": "Burgemeester Broxlaan",
-      "tblPointOfInterestNumber": 12,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "5041SB",
-      "tblPointOfInterestCity": "Tilburg",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-28733170",
-      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl/tilburg",
-      "tblPointOfInterestEmail": "tilburg@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7180,
-        "tblPersonID": 959237,
-        "tblPersonName": "J. Gosenson"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 7230,
     "tblPointOfInterestName": "Distinction Bedrijfsfinancieringen Bedrijfskundig Advies",
     "tblPointOfInterestCoordinateRetrievedLong": 6.5552781,
@@ -1381,32 +1355,6 @@
         "tblPointOfInterestID": 7283,
         "tblPersonID": 1145819,
         "tblPersonName": "G.A.M. Reusen"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 7317,
-    "tblPointOfInterestName": "Financieringsgilde ZuidWest Nederland BV",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.4608379,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.5207267,
-    "details": {
-      "tblPointOfInterestID": 7317,
-      "tblPointOfInterestName": "Financieringsgilde ZuidWest Nederland BV",
-      "tblPointOfInterestStreet": "Valeriuslaan",
-      "tblPointOfInterestNumber": 49,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "4707BS",
-      "tblPointOfInterestCity": "Roosendaal",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "06-28733170",
-      "tblPointOfInterestWebsite": "http://www.financieringsgilde.nl/roosendaal",
-      "tblPointOfInterestEmail": "jgosenson@financieringsgilde.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 7317,
-        "tblPersonID": 959237,
-        "tblPersonName": "J. Gosenson"
       }
     ]
   },
@@ -1708,58 +1656,6 @@
         "tblPointOfInterestID": 12775,
         "tblPersonID": 1010577,
         "tblPersonName": "A.W.T. van den Akker"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 12814,
-    "tblPointOfInterestName": "ZAQELIJK Lek- & Merwestreek",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.8057525,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.8277826,
-    "details": {
-      "tblPointOfInterestID": 12814,
-      "tblPointOfInterestName": "ZAQELIJK Lek- & Merwestreek",
-      "tblPointOfInterestStreet": "Moerbei",
-      "tblPointOfInterestNumber": 16,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "3371NZ",
-      "tblPointOfInterestCity": "Hardinxveld Giessendam",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0880049800",
-      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
-      "tblPointOfInterestEmail": "info@zaqelijk.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 12814,
-        "tblPersonID": 949708,
-        "tblPersonName": "M.B. Damen"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 12818,
-    "tblPointOfInterestName": "ZAQELIJK Drechtsteden",
-    "tblPointOfInterestCoordinateRetrievedLong": 4.6223382,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.8328217,
-    "details": {
-      "tblPointOfInterestID": 12818,
-      "tblPointOfInterestName": "ZAQELIJK Drechtsteden",
-      "tblPointOfInterestStreet": "Kringloopweg",
-      "tblPointOfInterestNumber": 16,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "3343LR",
-      "tblPointOfInterestCity": "Zwijdrecht",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0880049800",
-      "tblPointOfInterestWebsite": "http://www.zaqelijk.nl",
-      "tblPointOfInterestEmail": "info@zaqelijk.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 12818,
-        "tblPersonID": 949708,
-        "tblPersonName": "M.B. Damen"
       }
     ]
   },
