@@ -1634,32 +1634,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 12775,
-    "tblPointOfInterestName": "ASN Bank Waalwijk",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.0672466,
-    "tblPointOfInterestCoordinateRetrievedLat": 51.6881838,
-    "details": {
-      "tblPointOfInterestID": 12775,
-      "tblPointOfInterestName": "ASN Bank Waalwijk",
-      "tblPointOfInterestStreet": "Stationsstraat",
-      "tblPointOfInterestNumber": 53,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": null,
-      "tblPointOfInterestCity": "Waalwijk",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0623124426",
-      "tblPointOfInterestWebsite": "http://www.ASNBank.nl",
-      "tblPointOfInterestEmail": "remco.vandenakker@asnbank.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 12775,
-        "tblPersonID": 1010577,
-        "tblPersonName": "A.W.T. van den Akker"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 12928,
     "tblPointOfInterestName": "Optifin-advies B.V.",
     "tblPointOfInterestCoordinateRetrievedLong": 4.4165009,
