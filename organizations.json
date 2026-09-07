@@ -124,6 +124,32 @@
     ]
   },
   {
+    "tblPointOfInterestID": 6012,
+    "tblPointOfInterestName": "NLInvesteert Noord Nederland",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.5678225,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.9718343,
+    "details": {
+      "tblPointOfInterestID": 6012,
+      "tblPointOfInterestName": "NLInvesteert Noord Nederland",
+      "tblPointOfInterestStreet": "Wasplaat",
+      "tblPointOfInterestNumber": 4,
+      "tblPointOfInterestNumberAddition": null,
+      "tblPointOfInterestPostalCode": "9404MR",
+      "tblPointOfInterestCity": "Assen",
+      "country": "Nederland",
+      "tblPointOfInterestTelephone": "06-38063968",
+      "tblPointOfInterestWebsite": "http://www.nlinvesteert.nl/regio/noord",
+      "tblPointOfInterestEmail": "gvanyperen@nlinvesteert.nl"
+    },
+    "advisors": [
+      {
+        "tblPointOfInterestID": 6012,
+        "tblPersonID": 1010440,
+        "tblPersonName": "P.B. Rodenburg"
+      }
+    ]
+  },
+  {
     "tblPointOfInterestID": 6013,
     "tblPointOfInterestName": "NLInvesteert Noord Holland Noord",
     "tblPointOfInterestCoordinateRetrievedLong": 4.7227184,
