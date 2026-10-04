@@ -860,32 +860,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 6159,
-    "tblPointOfInterestName": "Credion Noord Nederland",
-    "tblPointOfInterestCoordinateRetrievedLong": 5.7954723,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.1988011,
-    "details": {
-      "tblPointOfInterestID": 6159,
-      "tblPointOfInterestName": "Credion Noord Nederland",
-      "tblPointOfInterestStreet": "Beursplein",
-      "tblPointOfInterestNumber": 1,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "8911 BE",
-      "tblPointOfInterestCity": "Leeuwarden",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "058-2027115",
-      "tblPointOfInterestWebsite": "http://www.credion.nl/friesland",
-      "tblPointOfInterestEmail": "noordnederland@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 6159,
-        "tblPersonID": 966078,
-        "tblPersonName": "HJ Kieft"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 6192,
     "tblPointOfInterestName": "Leon Westmaas Advies,  de Financieringsregisseur",
     "tblPointOfInterestCoordinateRetrievedLong": 4.6489247,
@@ -1437,58 +1411,6 @@
     ]
   },
   {
-    "tblPointOfInterestID": 8358,
-    "tblPointOfInterestName": "Credion Noord Nederland",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.6069415,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.2029867,
-    "details": {
-      "tblPointOfInterestID": 8358,
-      "tblPointOfInterestName": "Credion Noord Nederland",
-      "tblPointOfInterestStreet": "Bornholmstraat",
-      "tblPointOfInterestNumber": 90,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "9723 AZ",
-      "tblPointOfInterestCity": "Groningen",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0882733466",
-      "tblPointOfInterestWebsite": "http://www.credion.nl",
-      "tblPointOfInterestEmail": "noordnederland@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 8358,
-        "tblPersonID": 966078,
-        "tblPersonName": "HJ Kieft"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 8359,
-    "tblPointOfInterestName": "Credion Noord Nederland",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.2736502,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.1505906,
-    "details": {
-      "tblPointOfInterestID": 8359,
-      "tblPointOfInterestName": "Credion Noord Nederland",
-      "tblPointOfInterestStreet": "De Bres",
-      "tblPointOfInterestNumber": 2,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "9363 TM",
-      "tblPointOfInterestCity": "Marum",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0882733466",
-      "tblPointOfInterestWebsite": "http://www.credion.nl",
-      "tblPointOfInterestEmail": "noordnederland@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 8359,
-        "tblPersonID": 966078,
-        "tblPersonName": "HJ Kieft"
-      }
-    ]
-  },
-  {
     "tblPointOfInterestID": 8380,
     "tblPointOfInterestName": "MB Adviesgroep",
     "tblPointOfInterestCoordinateRetrievedLong": 4.9375194,
@@ -1578,32 +1500,6 @@
         "tblPointOfInterestID": 11271,
         "tblPersonID": 1239444,
         "tblPersonName": "M. Frai"
-      }
-    ]
-  },
-  {
-    "tblPointOfInterestID": 11329,
-    "tblPointOfInterestName": "Credion Agrarisch Team Noord",
-    "tblPointOfInterestCoordinateRetrievedLong": 7.1862965,
-    "tblPointOfInterestCoordinateRetrievedLat": 53.1083267,
-    "details": {
-      "tblPointOfInterestID": 11329,
-      "tblPointOfInterestName": "Credion Agrarisch Team Noord",
-      "tblPointOfInterestStreet": "Kanaaldijk W.Z.",
-      "tblPointOfInterestNumber": 4,
-      "tblPointOfInterestNumberAddition": null,
-      "tblPointOfInterestPostalCode": "9695VA",
-      "tblPointOfInterestCity": "BELLINGWOLDE",
-      "country": "Nederland",
-      "tblPointOfInterestTelephone": "0623963310",
-      "tblPointOfInterestWebsite": "https://www.credion.eu/nl/agrarisch-team-noord",
-      "tblPointOfInterestEmail": "hjkieft@credion.nl"
-    },
-    "advisors": [
-      {
-        "tblPointOfInterestID": 11329,
-        "tblPersonID": 966078,
-        "tblPersonName": "HJ Kieft"
       }
     ]
   },
