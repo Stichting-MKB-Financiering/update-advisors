@@ -1095,12 +1095,12 @@
   },
   {
     "tblPointOfInterestID": 7087,
-    "tblPointOfInterestName": "Eijgen Finance Twente",
-    "tblPointOfInterestCoordinateRetrievedLong": 6.924802,
-    "tblPointOfInterestCoordinateRetrievedLat": 52.4336731,
+    "tblPointOfInterestName": "Rudy Groeneveld Financieringsspecialist & Financieringsmanagement",
+    "tblPointOfInterestCoordinateRetrievedLong": 6.9247876,
+    "tblPointOfInterestCoordinateRetrievedLat": 52.4336705,
     "details": {
       "tblPointOfInterestID": 7087,
-      "tblPointOfInterestName": "Eijgen Finance Twente",
+      "tblPointOfInterestName": "Rudy Groeneveld Financieringsspecialist & Financieringsmanagement",
       "tblPointOfInterestStreet": "Laagsestraat",
       "tblPointOfInterestNumber": 72,
       "tblPointOfInterestNumberAddition": "A",
@@ -1108,8 +1108,8 @@
       "tblPointOfInterestCity": "Oud Ootmarsum",
       "country": "Nederland",
       "tblPointOfInterestTelephone": "0646799934",
-      "tblPointOfInterestWebsite": "https://www.eijgenfinance.nl/vestigingen/eijgen-finance-twente/",
-      "tblPointOfInterestEmail": "twente@eijgenfinance.nl"
+      "tblPointOfInterestWebsite": "https://www.rudygroeneveld.com",
+      "tblPointOfInterestEmail": "info@rudygroeneveld.nl"
     },
     "advisors": [
       {
